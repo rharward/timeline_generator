@@ -2,9 +2,10 @@
   "name": "captions11",
   "version": "1.0.0",
   "description": "",
-  "main": "index23.js",
+  "main": "index.js",
   "dependencies": {
     "@drorgl/youtube-captions-scraper": "^1.0.2",
+    "body-parser": "^1.19.0",
     "cheerio": "^1.0.0-rc.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
