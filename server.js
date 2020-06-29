@@ -37,17 +37,14 @@ var Datastore = require('nedb');
 
 //app.listen(7000 , "dev.citynet.net"|"45.76.18.92", () =>console.log('listening at 7000'));
 //app.listen(7000 , "dev.citynet.net", () =>console.log('listening at 7000'));
-<<<<<<< HEAD
 app.use(express.static('public',cors()));
 app.use(express.static('public/data',cors()));
 app.use(express.static('http://127.0.0.1:7000/'+ '/public',cors()));
 app.use(express.static('http://localhost:7000'+ '/public',cors()));
-=======
 ////app.use(express.static('public',cors()));
 ////app.use(express.static('public/data',cors()));
 //app.use(express.static('http://127.0.0.1:7000/'+ '/public',cors()));
 ////app.use(express.static('http://localhost:7000'+ '/public',cors()));
->>>>>>> f568ce2f4cc95e5a582d268e4087ada169ddd3b2
 app.use(express.json({limit: '10mb'}));
 //app.listen(7000 , "dev.citynet.net"|"45.76.18.92", () =>console.log('listening at 7000'));
 app.listen(7000 , "dev.citynet.net"|"localhost", () =>console.log('listening at 7000'));
