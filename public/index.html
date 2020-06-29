@@ -313,7 +313,7 @@ async function showRecords(){
 
 
 
-                    const response = await fetch('http://127.0.0.1:7000/getsubtitles');
+                    const response = await fetch('/getsubtitles');
                    const data = await response.json();
                   //  console.log('data = '+data[1]._id);
                    // let numberHolder = document.getElementById('Rserial').value
@@ -350,7 +350,7 @@ async function showKeyfield() {
   if (x.style.display === "none") {
     x.style.display = "block";
     console.log('We are in the showKeyfield function');
-   const response = await fetch('http://127.0.0.1:7000/populatetopic');
+   const response = await fetch('/populatetopic');
    let data =[];
   const data1 = await response.json();
    data = await data1;
@@ -422,7 +422,7 @@ function initialize(){
                 async function getData() {
                   
                     document.getElementById("transcriptDisplay").innerHTML = "HOLD ON!";
-                    const response = await fetch('http://127.0.0.1:7000/getsubtitles');
+                    const response = await fetch('/getsubtitles');
                    const data = await response.json();
                     console.log(data);
                     let numberHolder = document.getElementById('Rserial').value
@@ -450,7 +450,7 @@ function initialize(){
                         },
                         body: JSON.stringify(data),
                     };
-                    fetch('http://127.0.0.1:7000/getsubtitles', options);
+                    fetch('/getsubtitles', options);
                     console.log(options);
                    // getData();
                   // data = 'XlrYiJt9IlQ'
@@ -477,7 +477,7 @@ function initialize(){
                         },
                        // body: JSON.stringify(data),
                     };
-                    fetch('http://127.0.0.1:7000/dropdatabase', options);
+                    fetch('/dropdatabase', options);
                     console.log(options);
 
           }
@@ -493,7 +493,7 @@ function initialize(){
               },
               body: JSON.stringify(recordToDelete)
           };
-          fetch('http://127.0.0.1:7000/droprecord', options);
+          fetch('/droprecord', options);
           console.log(options);
 
 }
@@ -509,7 +509,7 @@ function initialize(){
                         },
                         body: JSON.stringify(data),
                     };
-                    fetch('http://127.0.0.1:7000/addtopic', options);
+                    fetch('/addtopic', options);
                     console.log(options);
 
           }
