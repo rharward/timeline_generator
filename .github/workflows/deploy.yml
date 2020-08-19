@@ -1,0 +1,19 @@
+name: Deploy to remote server
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set deploy key and remote host for dependencies
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_KEY }}
+          known_hosts: 45.76.18.92 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCwQdhFaXLFc0LxP6emaAYK5/14VTSlmtetRqYhNMnlugiqo5mxryYMzU4IjHYc5cO+S6+Wv5/YhejnbLK+WKSkntIC6HglAnryc0rn9bXMkgXau5zaHFYUYtDOxXWgX+BzBNhU3KevQ496qqQCmoQVF2FnUn/N0Cld06Xy5yGk1KimN6Dnkn1ACyeWBEfYLys6tnP86tb1YRmCkin+rF18BA8VHyzFlNTLTODg+VK7z5qWsAkST8NDcP4cSdqkSnUlGEVQjvmXNgBbKuuCO26G6BDE6Tss5R51vmBByZd7L984ZGgeWBZG8kTB0hpM9MQjB1cppZUZBL+b3Di4HSBB
+          name: id_rsa
+      - name: Update code and restart service
+        run: ssh admin@45.76.18.92 'cd ~/Code/timeline_generator && git pull && sudo systemctl restart timeline'
