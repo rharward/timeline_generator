@@ -250,11 +250,12 @@ h2 + pre {
 
 #textFieldtextArea {
     margin-left:10px;
+    margin-top: 15px;
 }
 
 #Rserial {
     margin-left:10px;
-    width:30px;
+    width:50px;
 } 
 
 #Yserial {
@@ -274,7 +275,7 @@ h2 + pre {
 }
 
 div.transcriptDisplay {
-    background-color: lightblue;
+    background-color: rgb(255, 255, 255);
     width: 710px;
     height: 10px;
     overflow: scroll;

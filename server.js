@@ -137,7 +137,7 @@ app.post('/addtopic',  cors(), (request1,response) =>{
           return;
         }else{
       response.send(data);
-      //  console.log('DATA = '+ data)
+       console.log('DATA = '+ data) //take this out to getrid of the long console.log when you post a video
         }//response = data;
        //database.count({}, function (err, count) {
         //response.end();
