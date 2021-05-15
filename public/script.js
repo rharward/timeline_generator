@@ -1,18 +1,19 @@
 var player,
     time_update_interval = 0;
-var data = 'vIJdypOqlL4';
+//var data = 'vIJdypOqlL4';
+var data = 'nHfADWU8558';
 function onYouTubeIframeAPIReady(data) {
     let dataInner = "";
     dataInner = data;
     console.log('I changed this Tuesday June 2 at 7:01pm');
-  //  console.log('dataInner = '+dataInner);
+    //  console.log('dataInner = '+dataInner);
     player = new YT.Player('video-placeholder', {
         width: 600,
         height: 400,
         videoId: String(dataInner),
         playerVars: {
-           
-           playlist: 'taJ60kskkns,FG0fTKAqZ5g'
+
+            playlist: 'nHfADWU8558,nHfADWU8558'
         },
         events: {
             onReady: initialize
@@ -20,7 +21,7 @@ function onYouTubeIframeAPIReady(data) {
     });
 }
 
-function initialize(){
+function initialize() {
 
     // Update the controls on load
     updateTimerDisplay();
@@ -42,15 +43,15 @@ function initialize(){
 
 
 // This function is called by initialize()
-function updateTimerDisplay(){
+function updateTimerDisplay() {
     // Update current time text display.
-    $('#current-time').text(formatTime( player.getCurrentTime() ));
-    $('#duration').text(formatTime( player.getDuration() ));
+    $('#current-time').text(formatTime(player.getCurrentTime()));
+    $('#duration').text(formatTime(player.getDuration()));
 }
 
 
 // This function is called by initialize()
-function updateProgressBar(){
+function updateProgressBar() {
     // Update the value of our progress bar accordingly.
     $('#progress-bar').val((player.getCurrentTime() / player.getDuration()) * 100);
 }
@@ -85,14 +86,14 @@ $('#pause').on('click', function () {
 // Sound volume
 
 
-$('#mute-toggle').on('click', function() {
+$('#mute-toggle').on('click', function () {
     var mute_toggle = $(this);
 
-    if(player.isMuted()){
+    if (player.isMuted()) {
         player.unMute();
         mute_toggle.text('volume_up');
     }
-    else{
+    else {
         player.mute();
         mute_toggle.text('volume_off');
     }
@@ -139,7 +140,7 @@ $('.thumbnail').on('click', function () {
 
 // Helper Functions
 
-function formatTime(time){
+function formatTime(time) {
     time = Math.round(time);
 
     var minutes = Math.floor(time / 60),
@@ -151,7 +152,7 @@ function formatTime(time){
 }
 
 
-$('pre code').each(function(i, block) {
-    hljs.highlightBlock(block); 
-    
+$('pre code').each(function (i, block) {
+    hljs.highlightBlock(block);
+
 });
