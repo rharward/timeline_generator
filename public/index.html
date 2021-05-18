@@ -54,8 +54,8 @@
 
 
     <div id="textField" class="center" style="display:none">
-      <textarea id="textFieldtextArea" rows="4" cols="70"></textarea>
-      <button id="myT" class="myButton" onmousedown="createTimeline()">create</button>
+      <textarea id="textFieldtextArea" rows="2" cols="70"></textarea>
+      <button id="myT" class="myButton" onmousedown="createTimeline()">search</button>
       <div id="outputField" class="center"></div>
     </div>
 
@@ -199,7 +199,7 @@
                   console.log(word);
                   let wordAppend = word;
                   let wordContextWithDate = [];
-
+                  //the code below displays the sentence fragment with the target word embedded as a button 
                   for (var index3 = 0; index3 < 16; index3++) {
                     outputMassagedOuterAppend = dataCaptions[nextInstance + index3 - 7] + " ";
                     if (index3 == 7) {
@@ -207,7 +207,7 @@
                       outputMassagedOuterAppend = hitColor.fontcolor("green");
                       SNumber = JSON.stringify(dataCaptionsYoutubeID[nextInstance + index3 - 8]);
                       STimer = dataCaptionsPlace[nextInstance + index3 - 15];
-                      outputMassagedOuterAppend = '<button onclick=player.loadVideoById(' + SNumber + ',' + STimer + ')>' + outputMassagedOuterAppend + '</button>';
+                      outputMassagedOuterAppend = '<button onclick=player.loadVideoById(' + SNumber + ',' + STimer + ')>' + outputMassagedOuterAppend + '</button>' + " ";
                     }
                     wordArray.push(outputMassagedOuterAppend);
                   }
