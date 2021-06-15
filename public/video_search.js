@@ -1,5 +1,5 @@
 $("#").click(function () {
-    var API_KEY = "AIzaSyAEAlFI0FthUvrVfTqNsmPSCiktyBg3SL0"
+    var API_KEY = "Replace_this_value_with_a_real_api_key."
     var video = ''
     var videos = $("#videos")
     $("#form").submit(function (event) {
