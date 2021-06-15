@@ -194,13 +194,15 @@ h2 + pre {
 }
 
 #outputField {
-    width: 100%;
+    width: 40%;
     padding: 50px 0;
     text-align: left;
     background-color: rgb(255, 255, 255);
     margin-top: 20px;
     margin-left: 60px;
     font-size: 12px;
+    height: 200px;
+    overflow: scroll;
    
 
 }
@@ -212,6 +214,8 @@ h2 + pre {
     margin-top: 12px;
     margin-left: 60px;
     font-size: 14px;
+    height: 700px;
+    overflow: scroll;
    
 
 }
@@ -244,7 +248,7 @@ h2 + pre {
     text-align: left;
     background-color: rgb(255, 255, 255);
     margin-top: 5px;
-   
+   overflow: scroll;
 
 }
 
@@ -279,6 +283,7 @@ div.transcriptDisplay {
     width: 710px;
     height: 10px;
     overflow: scroll;
+    border: 2px;
   }  
 
   #topics {
@@ -287,4 +292,16 @@ div.transcriptDisplay {
 
 #number {
     width: 80px;
+}
+
+#videos {
+    height: 420px;
+    overflow: scroll;
+    margin-left:60px;
+}
+
+#spinner {
+    position: fixed;
+    top: 20%;
+    left: 30%
 }

@@ -2,7 +2,7 @@
   "name": "captions11",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "dependencies": {
     "@drorgl/youtube-captions-scraper": "^1.0.2",
     "body-parser": "^1.19.0",
@@ -12,7 +12,8 @@
     "nedb": "^1.8.0",
     "nodemon": "^2.0.7",
     "request": "^2.88.2",
-    "youtube-captions-scraper": "^1.0.3"
+    "youtube-captions-scraper": "^1.0.3",
+    "youtube-dl-exec": "^1.2.3"
   },
   "devDependencies": {},
   "scripts": {

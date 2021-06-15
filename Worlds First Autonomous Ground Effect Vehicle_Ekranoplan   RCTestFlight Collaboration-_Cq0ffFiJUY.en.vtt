@@ -1,0 +1,2192 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:01.829 align:start position:0%
+ 
+what<00:00:00.399><c> you</c><00:00:00.560><c> are</c><00:00:00.719><c> looking</c><00:00:01.040><c> at</c><00:00:01.199><c> is</c><00:00:01.280><c> an</c><00:00:01.439><c> akrana</c>
+
+00:00:01.829 --> 00:00:01.839 align:start position:0%
+what you are looking at is an akrana
+ 
+
+00:00:01.839 --> 00:00:03.990 align:start position:0%
+what you are looking at is an akrana
+plan<00:00:02.480><c> or</c><00:00:02.639><c> ground</c><00:00:02.960><c> effect</c><00:00:03.280><c> vehicle</c>
+
+00:00:03.990 --> 00:00:04.000 align:start position:0%
+plan or ground effect vehicle
+ 
+
+00:00:04.000 --> 00:00:05.829 align:start position:0%
+plan or ground effect vehicle
+autonomously<00:00:04.720><c> navigating</c><00:00:05.200><c> to</c><00:00:05.359><c> various</c>
+
+00:00:05.829 --> 00:00:05.839 align:start position:0%
+autonomously navigating to various
+ 
+
+00:00:05.839 --> 00:00:07.670 align:start position:0%
+autonomously navigating to various
+preset<00:00:06.319><c> waypoints</c><00:00:06.799><c> on</c><00:00:06.960><c> a</c><00:00:07.040><c> map</c>
+
+00:00:07.670 --> 00:00:07.680 align:start position:0%
+preset waypoints on a map
+ 
+
+00:00:07.680 --> 00:00:09.669 align:start position:0%
+preset waypoints on a map
+using<00:00:07.919><c> the</c><00:00:08.080><c> open</c><00:00:08.320><c> source</c><00:00:08.639><c> autopilot</c><00:00:09.200><c> software</c>
+
+00:00:09.669 --> 00:00:09.679 align:start position:0%
+using the open source autopilot software
+ 
+
+00:00:09.679 --> 00:00:11.430 align:start position:0%
+using the open source autopilot software
+known<00:00:09.920><c> as</c><00:00:10.080><c> artypilot</c>
+
+00:00:11.430 --> 00:00:11.440 align:start position:0%
+known as artypilot
+ 
+
+00:00:11.440 --> 00:00:13.350 align:start position:0%
+known as artypilot
+this<00:00:11.679><c> is</c><00:00:11.840><c> the</c><00:00:11.920><c> story</c><00:00:12.320><c> of</c><00:00:12.400><c> how</c><00:00:12.559><c> this</c><00:00:12.880><c> project</c>
+
+00:00:13.350 --> 00:00:13.360 align:start position:0%
+this is the story of how this project
+ 
+
+00:00:13.360 --> 00:00:15.110 align:start position:0%
+this is the story of how this project
+got<00:00:13.599><c> here</c>
+
+00:00:15.110 --> 00:00:15.120 align:start position:0%
+got here
+ 
+
+00:00:15.120 --> 00:00:17.029 align:start position:0%
+got here
+i<00:00:15.280><c> was</c><00:00:15.519><c> watching</c><00:00:15.839><c> a</c><00:00:15.839><c> video</c><00:00:16.160><c> by</c><00:00:16.400><c> the</c><00:00:16.480><c> youtuber</c>
+
+00:00:17.029 --> 00:00:17.039 align:start position:0%
+i was watching a video by the youtuber
+ 
+
+00:00:17.039 --> 00:00:18.870 align:start position:0%
+i was watching a video by the youtuber
+rc<00:00:17.440><c> test</c><00:00:17.680><c> flight</c><00:00:18.080><c> about</c><00:00:18.320><c> a</c><00:00:18.400><c> long-range</c>
+
+00:00:18.870 --> 00:00:18.880 align:start position:0%
+rc test flight about a long-range
+ 
+
+00:00:18.880 --> 00:00:20.790 align:start position:0%
+rc test flight about a long-range
+autonomous<00:00:19.520><c> boat</c><00:00:19.760><c> drone</c><00:00:20.160><c> and</c><00:00:20.240><c> it</c><00:00:20.400><c> struck</c><00:00:20.640><c> me</c>
+
+00:00:20.790 --> 00:00:20.800 align:start position:0%
+autonomous boat drone and it struck me
+ 
+
+00:00:20.800 --> 00:00:22.550 align:start position:0%
+autonomous boat drone and it struck me
+as<00:00:20.880><c> a</c><00:00:20.960><c> great</c><00:00:21.199><c> idea</c><00:00:21.520><c> to</c><00:00:21.600><c> do</c><00:00:21.760><c> an</c><00:00:21.920><c> echronoplan</c>
+
+00:00:22.550 --> 00:00:22.560 align:start position:0%
+as a great idea to do an echronoplan
+ 
+
+00:00:22.560 --> 00:00:23.750 align:start position:0%
+as a great idea to do an echronoplan
+version
+
+00:00:23.750 --> 00:00:23.760 align:start position:0%
+version
+ 
+
+00:00:23.760 --> 00:00:25.429 align:start position:0%
+version
+everyone<00:00:24.160><c> in</c><00:00:24.320><c> the</c><00:00:24.400><c> comments</c><00:00:24.800><c> section</c><00:00:25.199><c> seemed</c>
+
+00:00:25.429 --> 00:00:25.439 align:start position:0%
+everyone in the comments section seemed
+ 
+
+00:00:25.439 --> 00:00:27.429 align:start position:0%
+everyone in the comments section seemed
+to<00:00:25.519><c> be</c><00:00:25.599><c> having</c><00:00:25.920><c> the</c><00:00:26.080><c> same</c><00:00:26.400><c> thought</c>
+
+00:00:27.429 --> 00:00:27.439 align:start position:0%
+to be having the same thought
+ 
+
+00:00:27.439 --> 00:00:29.509 align:start position:0%
+to be having the same thought
+rather<00:00:27.680><c> than</c><00:00:27.920><c> run</c><00:00:28.080><c> with</c><00:00:28.240><c> the</c><00:00:28.400><c> idea</c><00:00:28.800><c> myself</c><00:00:29.359><c> i</c>
+
+00:00:29.509 --> 00:00:29.519 align:start position:0%
+rather than run with the idea myself i
+ 
+
+00:00:29.519 --> 00:00:31.269 align:start position:0%
+rather than run with the idea myself i
+reached<00:00:29.840><c> out</c><00:00:29.920><c> to</c><00:00:30.080><c> rc</c><00:00:30.480><c> test</c><00:00:30.720><c> flight</c><00:00:30.960><c> to</c><00:00:31.039><c> see</c><00:00:31.199><c> if</c>
+
+00:00:31.269 --> 00:00:31.279 align:start position:0%
+reached out to rc test flight to see if
+ 
+
+00:00:31.279 --> 00:00:33.430 align:start position:0%
+reached out to rc test flight to see if
+he<00:00:31.439><c> wanted</c><00:00:31.760><c> to</c><00:00:31.840><c> do</c><00:00:32.000><c> a</c><00:00:32.160><c> joint</c><00:00:32.480><c> project</c>
+
+00:00:33.430 --> 00:00:33.440 align:start position:0%
+he wanted to do a joint project
+ 
+
+00:00:33.440 --> 00:00:34.870 align:start position:0%
+he wanted to do a joint project
+it<00:00:33.600><c> turned</c><00:00:33.840><c> out</c><00:00:33.920><c> that</c><00:00:34.079><c> custom</c><00:00:34.480><c> code</c><00:00:34.719><c> for</c>
+
+00:00:34.870 --> 00:00:34.880 align:start position:0%
+it turned out that custom code for
+ 
+
+00:00:34.880 --> 00:00:36.709 align:start position:0%
+it turned out that custom code for
+arduplane<00:00:35.440><c> was</c><00:00:35.600><c> already</c><00:00:35.840><c> being</c><00:00:36.079><c> worked</c><00:00:36.399><c> on</c><00:00:36.559><c> on</c>
+
+00:00:36.709 --> 00:00:36.719 align:start position:0%
+arduplane was already being worked on on
+ 
+
+00:00:36.719 --> 00:00:38.310 align:start position:0%
+arduplane was already being worked on on
+his<00:00:36.960><c> end</c><00:00:37.120><c> for</c><00:00:37.200><c> such</c><00:00:37.440><c> a</c><00:00:37.520><c> purpose</c><00:00:38.000><c> and</c><00:00:38.160><c> this</c>
+
+00:00:38.310 --> 00:00:38.320 align:start position:0%
+his end for such a purpose and this
+ 
+
+00:00:38.320 --> 00:00:40.229 align:start position:0%
+his end for such a purpose and this
+collaboration<00:00:39.040><c> was</c><00:00:39.200><c> born</c>
+
+00:00:40.229 --> 00:00:40.239 align:start position:0%
+collaboration was born
+ 
+
+00:00:40.239 --> 00:00:42.310 align:start position:0%
+collaboration was born
+i<00:00:40.399><c> was</c><00:00:40.640><c> also</c><00:00:40.879><c> curious</c><00:00:41.200><c> to</c><00:00:41.360><c> see</c><00:00:41.600><c> if</c><00:00:41.680><c> custom</c><00:00:42.079><c> code</c>
+
+00:00:42.310 --> 00:00:42.320 align:start position:0%
+i was also curious to see if custom code
+ 
+
+00:00:42.320 --> 00:00:43.990 align:start position:0%
+i was also curious to see if custom code
+in<00:00:42.480><c> arduplane</c><00:00:43.040><c> was</c><00:00:43.200><c> necessary</c>
+
+00:00:43.990 --> 00:00:44.000 align:start position:0%
+in arduplane was necessary
+ 
+
+00:00:44.000 --> 00:00:45.590 align:start position:0%
+in arduplane was necessary
+or<00:00:44.160><c> if</c><00:00:44.320><c> rd</c><00:00:44.559><c> plane</c><00:00:44.800><c> could</c><00:00:44.960><c> be</c><00:00:45.120><c> made</c><00:00:45.280><c> to</c><00:00:45.360><c> work</c>
+
+00:00:45.590 --> 00:00:45.600 align:start position:0%
+or if rd plane could be made to work
+ 
+
+00:00:45.600 --> 00:00:48.709 align:start position:0%
+or if rd plane could be made to work
+well<00:00:45.760><c> enough</c><00:00:46.239><c> as</c><00:00:46.559><c> is</c>
+
+00:00:48.709 --> 00:00:48.719 align:start position:0%
+well enough as is
+ 
+
+00:00:48.719 --> 00:00:51.110 align:start position:0%
+well enough as is
+so<00:00:48.879><c> what</c><00:00:49.120><c> is</c><00:00:49.280><c> ground</c><00:00:49.600><c> effect</c><00:00:50.480><c> check</c><00:00:50.719><c> out</c><00:00:50.879><c> these</c>
+
+00:00:51.110 --> 00:00:51.120 align:start position:0%
+so what is ground effect check out these
+ 
+
+00:00:51.120 --> 00:00:52.950 align:start position:0%
+so what is ground effect check out these
+pelicans<00:00:51.600><c> flying</c><00:00:51.920><c> at</c><00:00:52.000><c> various</c><00:00:52.399><c> heights</c><00:00:52.640><c> above</c>
+
+00:00:52.950 --> 00:00:52.960 align:start position:0%
+pelicans flying at various heights above
+ 
+
+00:00:52.960 --> 00:00:53.910 align:start position:0%
+pelicans flying at various heights above
+the<00:00:53.039><c> water</c>
+
+00:00:53.910 --> 00:00:53.920 align:start position:0%
+the water
+ 
+
+00:00:53.920 --> 00:00:55.750 align:start position:0%
+the water
+you<00:00:54.079><c> will</c><00:00:54.239><c> notice</c><00:00:54.559><c> the</c><00:00:54.640><c> lower</c><00:00:54.960><c> pelican</c><00:00:55.520><c> which</c>
+
+00:00:55.750 --> 00:00:55.760 align:start position:0%
+you will notice the lower pelican which
+ 
+
+00:00:55.760 --> 00:00:57.910 align:start position:0%
+you will notice the lower pelican which
+is<00:00:55.920><c> closer</c><00:00:56.239><c> to</c><00:00:56.399><c> the</c><00:00:56.480><c> water</c><00:00:56.719><c> has</c><00:00:56.960><c> a</c><00:00:57.039><c> smaller</c>
+
+00:00:57.910 --> 00:00:57.920 align:start position:0%
+is closer to the water has a smaller
+ 
+
+00:00:57.920 --> 00:00:59.830 align:start position:0%
+is closer to the water has a smaller
+flattened<00:00:58.320><c> out</c><00:00:58.480><c> wingtip</c><00:00:58.960><c> vortex</c><00:00:59.440><c> while</c><00:00:59.680><c> the</c>
+
+00:00:59.830 --> 00:00:59.840 align:start position:0%
+flattened out wingtip vortex while the
+ 
+
+00:00:59.840 --> 00:01:00.790 align:start position:0%
+flattened out wingtip vortex while the
+upper<00:01:00.079><c> pelican</c>
+
+00:01:00.790 --> 00:01:00.800 align:start position:0%
+upper pelican
+ 
+
+00:01:00.800 --> 00:01:02.229 align:start position:0%
+upper pelican
+which<00:01:01.039><c> is</c><00:01:01.120><c> further</c><00:01:01.440><c> from</c><00:01:01.600><c> the</c><00:01:01.680><c> water</c><00:01:02.000><c> has</c><00:01:02.160><c> a</c>
+
+00:01:02.229 --> 00:01:02.239 align:start position:0%
+which is further from the water has a
+ 
+
+00:01:02.239 --> 00:01:05.750 align:start position:0%
+which is further from the water has a
+much<00:01:02.559><c> larger</c><00:01:03.199><c> stronger</c><00:01:03.600><c> wingtip</c><00:01:04.080><c> vortex</c>
+
+00:01:05.750 --> 00:01:05.760 align:start position:0%
+much larger stronger wingtip vortex
+ 
+
+00:01:05.760 --> 00:01:07.830 align:start position:0%
+much larger stronger wingtip vortex
+the<00:01:05.920><c> stronger</c><00:01:06.320><c> vortex</c><00:01:06.880><c> increases</c><00:01:07.360><c> drag</c><00:01:07.760><c> and</c>
+
+00:01:07.830 --> 00:01:07.840 align:start position:0%
+the stronger vortex increases drag and
+ 
+
+00:01:07.840 --> 00:01:09.670 align:start position:0%
+the stronger vortex increases drag and
+thus<00:01:08.080><c> increases</c><00:01:08.479><c> the</c><00:01:08.640><c> energy</c><00:01:09.119><c> required</c><00:01:09.600><c> to</c>
+
+00:01:09.670 --> 00:01:09.680 align:start position:0%
+thus increases the energy required to
+ 
+
+00:01:09.680 --> 00:01:10.710 align:start position:0%
+thus increases the energy required to
+fly
+
+00:01:10.710 --> 00:01:10.720 align:start position:0%
+fly
+ 
+
+00:01:10.720 --> 00:01:12.630 align:start position:0%
+fly
+this<00:01:10.960><c> is</c><00:01:11.040><c> a</c><00:01:11.200><c> characteristic</c><00:01:12.000><c> of</c><00:01:12.159><c> wingspan</c>
+
+00:01:12.630 --> 00:01:12.640 align:start position:0%
+this is a characteristic of wingspan
+ 
+
+00:01:12.640 --> 00:01:14.550 align:start position:0%
+this is a characteristic of wingspan
+dominated<00:01:13.280><c> ground</c><00:01:13.600><c> effect</c>
+
+00:01:14.550 --> 00:01:14.560 align:start position:0%
+dominated ground effect
+ 
+
+00:01:14.560 --> 00:01:16.390 align:start position:0%
+dominated ground effect
+the<00:01:14.720><c> other</c><00:01:15.040><c> extreme</c><00:01:15.439><c> is</c><00:01:15.520><c> cord</c><00:01:15.840><c> dominated</c>
+
+00:01:16.390 --> 00:01:16.400 align:start position:0%
+the other extreme is cord dominated
+ 
+
+00:01:16.400 --> 00:01:18.469 align:start position:0%
+the other extreme is cord dominated
+ground<00:01:16.720><c> effect</c><00:01:17.200><c> where</c><00:01:17.360><c> a</c><00:01:17.520><c> short</c><00:01:17.759><c> stubby</c><00:01:18.159><c> wing</c>
+
+00:01:18.469 --> 00:01:18.479 align:start position:0%
+ground effect where a short stubby wing
+ 
+
+00:01:18.479 --> 00:01:19.910 align:start position:0%
+ground effect where a short stubby wing
+creates<00:01:18.880><c> a</c><00:01:18.960><c> ram</c><00:01:19.280><c> effect</c><00:01:19.680><c> and</c>
+
+00:01:19.910 --> 00:01:19.920 align:start position:0%
+creates a ram effect and
+ 
+
+00:01:19.920 --> 00:01:21.749 align:start position:0%
+creates a ram effect and
+increases<00:01:20.400><c> the</c><00:01:20.560><c> lift</c><00:01:21.119><c> more</c><00:01:21.360><c> so</c><00:01:21.520><c> than</c>
+
+00:01:21.749 --> 00:01:21.759 align:start position:0%
+increases the lift more so than
+ 
+
+00:01:21.759 --> 00:01:25.510 align:start position:0%
+increases the lift more so than
+decreasing<00:01:22.320><c> drag</c>
+
+00:01:25.510 --> 00:01:25.520 align:start position:0%
+ 
+ 
+
+00:01:25.520 --> 00:01:27.510 align:start position:0%
+ 
+notable<00:01:26.000><c> flights</c><00:01:26.400><c> in</c><00:01:26.560><c> ground</c><00:01:26.799><c> effect</c><00:01:27.200><c> include</c>
+
+00:01:27.510 --> 00:01:27.520 align:start position:0%
+notable flights in ground effect include
+ 
+
+00:01:27.520 --> 00:01:29.510 align:start position:0%
+notable flights in ground effect include
+the<00:01:27.600><c> wright</c><00:01:27.840><c> brothers</c><00:01:28.240><c> first</c><00:01:28.479><c> powered</c><00:01:28.880><c> flight</c>
+
+00:01:29.510 --> 00:01:29.520 align:start position:0%
+the wright brothers first powered flight
+ 
+
+00:01:29.520 --> 00:01:31.030 align:start position:0%
+the wright brothers first powered flight
+and<00:01:29.600><c> the</c><00:01:29.759><c> one</c><00:01:30.000><c> and</c><00:01:30.159><c> only</c><00:01:30.479><c> flight</c><00:01:30.799><c> of</c><00:01:30.880><c> the</c>
+
+00:01:31.030 --> 00:01:31.040 align:start position:0%
+and the one and only flight of the
+ 
+
+00:01:31.040 --> 00:01:32.630 align:start position:0%
+and the one and only flight of the
+spruce<00:01:31.439><c> goose</c>
+
+00:01:32.630 --> 00:01:32.640 align:start position:0%
+spruce goose
+ 
+
+00:01:32.640 --> 00:01:34.789 align:start position:0%
+spruce goose
+many<00:01:32.960><c> concepts</c><00:01:33.439><c> abound</c><00:01:33.840><c> to</c><00:01:34.000><c> utilize</c><00:01:34.479><c> ground</c>
+
+00:01:34.789 --> 00:01:34.799 align:start position:0%
+many concepts abound to utilize ground
+ 
+
+00:01:34.799 --> 00:01:41.030 align:start position:0%
+many concepts abound to utilize ground
+effect<00:01:35.280><c> and</c><00:01:35.439><c> these</c><00:01:35.680><c> are</c><00:01:35.840><c> a</c><00:01:38.840><c> few</c>
+
+00:01:41.030 --> 00:01:41.040 align:start position:0%
+effect and these are a few
+ 
+
+00:01:41.040 --> 00:01:43.510 align:start position:0%
+effect and these are a few
+given<00:01:41.360><c> the</c><00:01:41.439><c> many</c><00:01:41.759><c> considerations</c><00:01:42.560><c> available</c>
+
+00:01:43.510 --> 00:01:43.520 align:start position:0%
+given the many considerations available
+ 
+
+00:01:43.520 --> 00:01:44.870 align:start position:0%
+given the many considerations available
+what<00:01:43.759><c> went</c><00:01:44.000><c> into</c><00:01:44.240><c> choosing</c><00:01:44.560><c> this</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+what went into choosing this
+ 
+
+00:01:44.880 --> 00:01:48.310 align:start position:0%
+what went into choosing this
+is<00:01:44.960><c> the</c><00:01:45.119><c> final</c><00:01:45.439><c> configuration</c><00:01:47.840><c> while</c><00:01:48.000><c> the</c><00:01:48.159><c> air</c>
+
+00:01:48.310 --> 00:01:48.320 align:start position:0%
+is the final configuration while the air
+ 
+
+00:01:48.320 --> 00:01:50.389 align:start position:0%
+is the final configuration while the air
+fish<00:01:48.640><c> 8</c><00:01:48.960><c> is</c><00:01:49.119><c> probably</c><00:01:49.520><c> my</c><00:01:49.680><c> favorite</c><00:01:50.079><c> wing</c><00:01:50.320><c> and</c>
+
+00:01:50.389 --> 00:01:50.399 align:start position:0%
+fish 8 is probably my favorite wing and
+ 
+
+00:01:50.399 --> 00:01:51.590 align:start position:0%
+fish 8 is probably my favorite wing and
+ground<00:01:50.640><c> effect</c><00:01:50.960><c> craft</c>
+
+00:01:51.590 --> 00:01:51.600 align:start position:0%
+ground effect craft
+ 
+
+00:01:51.600 --> 00:01:53.270 align:start position:0%
+ground effect craft
+those<00:01:51.840><c> wings</c><00:01:52.159><c> are</c><00:01:52.240><c> a</c><00:01:52.320><c> real</c><00:01:52.560><c> challenge</c><00:01:52.960><c> to</c><00:01:53.040><c> cut</c>
+
+00:01:53.270 --> 00:01:53.280 align:start position:0%
+those wings are a real challenge to cut
+ 
+
+00:01:53.280 --> 00:01:54.950 align:start position:0%
+those wings are a real challenge to cut
+using<00:01:53.600><c> a</c><00:01:53.680><c> hot</c><00:01:53.920><c> wire</c><00:01:54.159><c> cutter</c><00:01:54.479><c> which</c><00:01:54.720><c> is</c><00:01:54.799><c> my</c>
+
+00:01:54.950 --> 00:01:54.960 align:start position:0%
+using a hot wire cutter which is my
+ 
+
+00:01:54.960 --> 00:01:57.350 align:start position:0%
+using a hot wire cutter which is my
+primary<00:01:55.439><c> tool</c><00:01:55.680><c> for</c><00:01:55.920><c> prototyping</c>
+
+00:01:57.350 --> 00:01:57.360 align:start position:0%
+primary tool for prototyping
+ 
+
+00:01:57.360 --> 00:01:59.590 align:start position:0%
+primary tool for prototyping
+i<00:01:57.520><c> still</c><00:01:57.759><c> wanted</c><00:01:58.079><c> a</c><00:01:58.159><c> cord</c><00:01:58.479><c> dominated</c><00:01:59.040><c> vehicle</c>
+
+00:01:59.590 --> 00:01:59.600 align:start position:0%
+i still wanted a cord dominated vehicle
+ 
+
+00:01:59.600 --> 00:02:01.910 align:start position:0%
+i still wanted a cord dominated vehicle
+though<00:02:00.320><c> with</c><00:02:00.560><c> some</c><00:02:00.880><c> wing</c><00:02:01.119><c> extensions</c><00:02:01.680><c> for</c>
+
+00:02:01.910 --> 00:02:01.920 align:start position:0%
+though with some wing extensions for
+ 
+
+00:02:01.920 --> 00:02:03.190 align:start position:0%
+though with some wing extensions for
+roll<00:02:02.159><c> control</c>
+
+00:02:03.190 --> 00:02:03.200 align:start position:0%
+roll control
+ 
+
+00:02:03.200 --> 00:02:04.469 align:start position:0%
+roll control
+and<00:02:03.360><c> of</c><00:02:03.439><c> course</c><00:02:03.680><c> we</c><00:02:03.840><c> need</c><00:02:04.000><c> a</c><00:02:04.159><c> massive</c>
+
+00:02:04.469 --> 00:02:04.479 align:start position:0%
+and of course we need a massive
+ 
+
+00:02:04.479 --> 00:02:06.550 align:start position:0%
+and of course we need a massive
+horizontal<00:02:05.119><c> stabilizer</c><00:02:05.759><c> to</c><00:02:05.920><c> help</c><00:02:06.079><c> us</c><00:02:06.240><c> out</c><00:02:06.479><c> as</c>
+
+00:02:06.550 --> 00:02:06.560 align:start position:0%
+horizontal stabilizer to help us out as
+ 
+
+00:02:06.560 --> 00:02:07.030 align:start position:0%
+horizontal stabilizer to help us out as
+we<00:02:06.719><c> move</c>
+
+00:02:07.030 --> 00:02:07.040 align:start position:0%
+we move
+ 
+
+00:02:07.040 --> 00:02:10.309 align:start position:0%
+we move
+in<00:02:07.360><c> and</c><00:02:07.520><c> out</c><00:02:07.759><c> of</c><00:02:07.920><c> ground</c><00:02:08.239><c> effect</c><00:02:09.520><c> test</c><00:02:09.840><c> vehicle</c>
+
+00:02:10.309 --> 00:02:10.319 align:start position:0%
+in and out of ground effect test vehicle
+ 
+
+00:02:10.319 --> 00:02:11.750 align:start position:0%
+in and out of ground effect test vehicle
+number<00:02:10.560><c> one</c><00:02:10.800><c> was</c><00:02:11.120><c> terrible</c>
+
+00:02:11.750 --> 00:02:11.760 align:start position:0%
+number one was terrible
+ 
+
+00:02:11.760 --> 00:02:14.070 align:start position:0%
+number one was terrible
+as<00:02:11.920><c> the</c><00:02:12.080><c> v-tail</c><00:02:12.560><c> design</c><00:02:12.879><c> had</c><00:02:13.120><c> no</c><00:02:13.360><c> longitudinal</c>
+
+00:02:14.070 --> 00:02:14.080 align:start position:0%
+as the v-tail design had no longitudinal
+ 
+
+00:02:14.080 --> 00:02:16.070 align:start position:0%
+as the v-tail design had no longitudinal
+stability
+
+00:02:16.070 --> 00:02:16.080 align:start position:0%
+stability
+ 
+
+00:02:16.080 --> 00:02:18.470 align:start position:0%
+stability
+test<00:02:16.400><c> vehicle</c><00:02:16.959><c> 2</c><00:02:17.680><c> with</c><00:02:17.840><c> an</c><00:02:18.000><c> additional</c>
+
+00:02:18.470 --> 00:02:18.480 align:start position:0%
+test vehicle 2 with an additional
+ 
+
+00:02:18.480 --> 00:02:19.589 align:start position:0%
+test vehicle 2 with an additional
+central<00:02:18.959><c> rudder</c>
+
+00:02:19.589 --> 00:02:19.599 align:start position:0%
+central rudder
+ 
+
+00:02:19.599 --> 00:02:25.030 align:start position:0%
+central rudder
+was<00:02:19.840><c> almost</c><00:02:20.160><c> as</c><00:02:20.840><c> bad</c>
+
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+ 
+ 
+
+00:02:25.040 --> 00:02:27.030 align:start position:0%
+ 
+test<00:02:25.280><c> vehicle</c><00:02:25.760><c> number</c><00:02:26.080><c> three</c><00:02:26.319><c> tracked</c><00:02:26.720><c> quite</c>
+
+00:02:27.030 --> 00:02:27.040 align:start position:0%
+test vehicle number three tracked quite
+ 
+
+00:02:27.040 --> 00:02:28.390 align:start position:0%
+test vehicle number three tracked quite
+well<00:02:27.520><c> although</c><00:02:27.840><c> it</c><00:02:27.920><c> would</c><00:02:28.000><c> need</c><00:02:28.239><c> to</c><00:02:28.319><c> be</c>
+
+00:02:28.390 --> 00:02:28.400 align:start position:0%
+well although it would need to be
+ 
+
+00:02:28.400 --> 00:02:30.229 align:start position:0%
+well although it would need to be
+modified<00:02:28.959><c> with</c><00:02:29.120><c> a</c><00:02:29.200><c> large</c><00:02:29.599><c> elevator</c><00:02:30.080><c> to</c>
+
+00:02:30.229 --> 00:02:30.239 align:start position:0%
+modified with a large elevator to
+ 
+
+00:02:30.239 --> 00:02:32.070 align:start position:0%
+modified with a large elevator to
+compensate<00:02:30.720><c> for</c><00:02:30.879><c> large</c><00:02:31.280><c> center</c><00:02:31.599><c> of</c><00:02:31.680><c> pressure</c>
+
+00:02:32.070 --> 00:02:32.080 align:start position:0%
+compensate for large center of pressure
+ 
+
+00:02:32.080 --> 00:02:33.830 align:start position:0%
+compensate for large center of pressure
+changes<00:02:32.480><c> as</c><00:02:32.640><c> it</c><00:02:32.720><c> moved</c><00:02:33.040><c> in</c><00:02:33.120><c> and</c><00:02:33.280><c> out</c><00:02:33.440><c> of</c><00:02:33.519><c> ground</c>
+
+00:02:33.830 --> 00:02:33.840 align:start position:0%
+changes as it moved in and out of ground
+ 
+
+00:02:33.840 --> 00:02:34.550 align:start position:0%
+changes as it moved in and out of ground
+effect
+
+00:02:34.550 --> 00:02:34.560 align:start position:0%
+effect
+ 
+
+00:02:34.560 --> 00:02:36.790 align:start position:0%
+effect
+as<00:02:34.720><c> well</c><00:02:34.879><c> as</c><00:02:35.040><c> winglets</c><00:02:35.440><c> for</c><00:02:35.680><c> roll</c><00:02:35.840><c> control</c>
+
+00:02:36.790 --> 00:02:36.800 align:start position:0%
+as well as winglets for roll control
+ 
+
+00:02:36.800 --> 00:02:43.190 align:start position:0%
+as well as winglets for roll control
+also<00:02:37.120><c> when</c><00:02:37.360><c> it's</c><00:02:37.519><c> out</c><00:02:37.599><c> of</c><00:02:37.760><c> ground</c><00:02:38.080><c> effect</c>
+
+00:02:43.190 --> 00:02:43.200 align:start position:0%
+ 
+ 
+
+00:02:43.200 --> 00:02:47.110 align:start position:0%
+ 
+the<00:02:43.360><c> design</c><00:02:43.760><c> was</c><00:02:44.000><c> working</c><00:02:44.319><c> quite</c><00:02:44.640><c> well</c><00:02:44.879><c> now</c>
+
+00:02:47.110 --> 00:02:47.120 align:start position:0%
+the design was working quite well now
+ 
+
+00:02:47.120 --> 00:02:49.270 align:start position:0%
+the design was working quite well now
+this<00:02:47.440><c> will</c><00:02:47.599><c> be</c><00:02:47.760><c> the</c><00:02:47.920><c> first</c><00:02:48.400><c> test</c><00:02:48.800><c> of</c><00:02:48.959><c> the</c>
+
+00:02:49.270 --> 00:02:49.280 align:start position:0%
+this will be the first test of the
+ 
+
+00:02:49.280 --> 00:02:51.750 align:start position:0%
+this will be the first test of the
+powered<00:02:50.000><c> winging</c><00:02:50.400><c> ground</c><00:02:50.720><c> effect</c>
+
+00:02:51.750 --> 00:02:51.760 align:start position:0%
+powered winging ground effect
+ 
+
+00:02:51.760 --> 00:02:55.430 align:start position:0%
+powered winging ground effect
+uh<00:02:52.080><c> vehicle</c><00:02:53.440><c> um</c><00:02:54.560><c> no</c><00:02:54.800><c> steering</c>
+
+00:02:55.430 --> 00:02:55.440 align:start position:0%
+uh vehicle um no steering
+ 
+
+00:02:55.440 --> 00:02:57.990 align:start position:0%
+uh vehicle um no steering
+no<00:02:55.599><c> ailerons</c><00:02:56.239><c> no</c><00:02:56.400><c> rudder</c><00:02:57.280><c> so</c><00:02:57.519><c> just</c><00:02:57.680><c> a</c><00:02:57.840><c> little</c>
+
+00:02:57.990 --> 00:02:58.000 align:start position:0%
+no ailerons no rudder so just a little
+ 
+
+00:02:58.000 --> 00:02:59.110 align:start position:0%
+no ailerons no rudder so just a little
+bit<00:02:58.159><c> of</c><00:02:58.239><c> power</c>
+
+00:02:59.110 --> 00:02:59.120 align:start position:0%
+bit of power
+ 
+
+00:02:59.120 --> 00:03:01.910 align:start position:0%
+bit of power
+and<00:02:59.680><c> it'll</c><00:02:59.920><c> probably</c><00:03:00.159><c> just</c><00:03:00.319><c> spin</c><00:03:00.560><c> in</c><00:03:00.720><c> circles</c>
+
+00:03:01.910 --> 00:03:01.920 align:start position:0%
+and it'll probably just spin in circles
+ 
+
+00:03:01.920 --> 00:03:08.140 align:start position:0%
+and it'll probably just spin in circles
+but<00:03:02.239><c> let's</c><00:03:02.400><c> give</c><00:03:02.640><c> it</c><00:03:02.800><c> a</c><00:03:02.879><c> shot</c>
+
+00:03:08.140 --> 00:03:08.150 align:start position:0%
+ 
+ 
+
+00:03:08.150 --> 00:03:12.790 align:start position:0%
+ 
+[Music]
+
+00:03:12.790 --> 00:03:12.800 align:start position:0%
+ 
+ 
+
+00:03:12.800 --> 00:03:15.190 align:start position:0%
+ 
+for<00:03:12.959><c> the</c><00:03:13.120><c> most</c><00:03:13.440><c> part</c><00:03:13.920><c> the</c><00:03:14.080><c> plane</c><00:03:14.400><c> did</c><00:03:14.640><c> just</c><00:03:14.959><c> go</c>
+
+00:03:15.190 --> 00:03:15.200 align:start position:0%
+for the most part the plane did just go
+ 
+
+00:03:15.200 --> 00:03:16.470 align:start position:0%
+for the most part the plane did just go
+in<00:03:15.360><c> circles</c>
+
+00:03:16.470 --> 00:03:16.480 align:start position:0%
+in circles
+ 
+
+00:03:16.480 --> 00:03:18.790 align:start position:0%
+in circles
+but<00:03:16.720><c> every</c><00:03:16.959><c> now</c><00:03:17.120><c> and</c><00:03:17.280><c> then</c><00:03:17.680><c> you</c><00:03:17.920><c> get</c><00:03:18.159><c> in</c><00:03:18.319><c> a</c><00:03:18.400><c> good</c>
+
+00:03:18.790 --> 00:03:18.800 align:start position:0%
+but every now and then you get in a good
+ 
+
+00:03:18.800 --> 00:03:19.589 align:start position:0%
+but every now and then you get in a good
+run
+
+00:03:19.589 --> 00:03:19.599 align:start position:0%
+run
+ 
+
+00:03:19.599 --> 00:03:21.589 align:start position:0%
+run
+usually<00:03:19.920><c> cut</c><00:03:20.159><c> short</c><00:03:20.400><c> by</c><00:03:20.560><c> the</c><00:03:20.720><c> only</c><00:03:20.959><c> object</c><00:03:21.360><c> in</c>
+
+00:03:21.589 --> 00:03:21.599 align:start position:0%
+usually cut short by the only object in
+ 
+
+00:03:21.599 --> 00:03:23.750 align:start position:0%
+usually cut short by the only object in
+sight
+
+00:03:23.750 --> 00:03:23.760 align:start position:0%
+sight
+ 
+
+00:03:23.760 --> 00:03:26.869 align:start position:0%
+sight
+i<00:03:23.920><c> needed</c><00:03:24.159><c> to</c><00:03:24.319><c> try</c><00:03:24.640><c> something</c><00:03:25.120><c> else</c>
+
+00:03:26.869 --> 00:03:26.879 align:start position:0%
+i needed to try something else
+ 
+
+00:03:26.879 --> 00:03:28.789 align:start position:0%
+i needed to try something else
+so<00:03:27.040><c> with</c><00:03:27.280><c> the</c><00:03:27.360><c> motors</c><00:03:27.840><c> in</c><00:03:27.920><c> the</c><00:03:28.159><c> front</c><00:03:28.560><c> it</c>
+
+00:03:28.789 --> 00:03:28.799 align:start position:0%
+so with the motors in the front it
+ 
+
+00:03:28.799 --> 00:03:31.589 align:start position:0%
+so with the motors in the front it
+understandably<00:03:29.599><c> tracks</c><00:03:30.080><c> quite</c><00:03:30.319><c> a</c><00:03:30.400><c> bit</c><00:03:30.640><c> better</c>
+
+00:03:31.589 --> 00:03:31.599 align:start position:0%
+understandably tracks quite a bit better
+ 
+
+00:03:31.599 --> 00:03:34.309 align:start position:0%
+understandably tracks quite a bit better
+overcomes<00:03:32.239><c> the</c><00:03:33.040><c> the</c><00:03:33.440><c> resistance</c><00:03:34.080><c> that</c><00:03:34.239><c> you</c>
+
+00:03:34.309 --> 00:03:34.319 align:start position:0%
+overcomes the the resistance that you
+ 
+
+00:03:34.319 --> 00:03:36.229 align:start position:0%
+overcomes the the resistance that you
+get<00:03:34.560><c> on</c><00:03:34.640><c> these</c><00:03:34.879><c> pontoons</c><00:03:35.519><c> here</c>
+
+00:03:36.229 --> 00:03:36.239 align:start position:0%
+get on these pontoons here
+ 
+
+00:03:36.239 --> 00:03:38.070 align:start position:0%
+get on these pontoons here
+so<00:03:36.480><c> since</c><00:03:36.720><c> i</c><00:03:36.799><c> want</c><00:03:36.959><c> this</c><00:03:37.120><c> to</c><00:03:37.200><c> be</c><00:03:37.360><c> as</c><00:03:37.519><c> autonomous</c>
+
+00:03:38.070 --> 00:03:38.080 align:start position:0%
+so since i want this to be as autonomous
+ 
+
+00:03:38.080 --> 00:03:39.509 align:start position:0%
+so since i want this to be as autonomous
+as<00:03:38.239><c> possible</c>
+
+00:03:39.509 --> 00:03:39.519 align:start position:0%
+as possible
+ 
+
+00:03:39.519 --> 00:03:42.789 align:start position:0%
+as possible
+as<00:03:39.599><c> stable</c><00:03:40.000><c> as</c><00:03:40.159><c> possible</c><00:03:40.799><c> by</c><00:03:40.959><c> itself</c>
+
+00:03:42.789 --> 00:03:42.799 align:start position:0%
+as stable as possible by itself
+ 
+
+00:03:42.799 --> 00:03:44.149 align:start position:0%
+as stable as possible by itself
+i<00:03:42.959><c> didn't</c><00:03:43.200><c> want</c><00:03:43.280><c> to</c><00:03:43.360><c> put</c><00:03:43.519><c> the</c><00:03:43.599><c> motors</c><00:03:44.000><c> on</c><00:03:44.080><c> the</c>
+
+00:03:44.149 --> 00:03:44.159 align:start position:0%
+i didn't want to put the motors on the
+ 
+
+00:03:44.159 --> 00:03:45.990 align:start position:0%
+i didn't want to put the motors on the
+front<00:03:44.400><c> because</c><00:03:44.720><c> of</c><00:03:44.799><c> durability</c><00:03:45.599><c> they're</c><00:03:45.760><c> more</c>
+
+00:03:45.990 --> 00:03:46.000 align:start position:0%
+front because of durability they're more
+ 
+
+00:03:46.000 --> 00:03:49.670 align:start position:0%
+front because of durability they're more
+protected<00:03:46.480><c> in</c><00:03:46.640><c> the</c><00:03:46.720><c> back</c><00:03:47.120><c> but</c>
+
+00:03:49.670 --> 00:03:49.680 align:start position:0%
+ 
+ 
+
+00:03:49.680 --> 00:03:51.110 align:start position:0%
+ 
+probably<00:03:50.159><c> just</c><00:03:50.400><c> gonna</c><00:03:50.560><c> have</c><00:03:50.720><c> to</c><00:03:50.799><c> go</c><00:03:50.959><c> with</c>
+
+00:03:51.110 --> 00:03:51.120 align:start position:0%
+probably just gonna have to go with
+ 
+
+00:03:51.120 --> 00:03:53.589 align:start position:0%
+probably just gonna have to go with
+motors<00:03:51.440><c> in</c><00:03:51.599><c> the</c><00:03:51.680><c> front</c><00:03:52.239><c> so</c>
+
+00:03:53.589 --> 00:03:53.599 align:start position:0%
+motors in the front so
+ 
+
+00:03:53.599 --> 00:03:56.149 align:start position:0%
+motors in the front so
+i'll<00:03:53.760><c> do</c><00:03:53.920><c> a</c><00:03:54.080><c> run</c><00:03:54.319><c> here</c><00:03:55.280><c> run</c><00:03:55.519><c> or</c><00:03:55.599><c> two</c><00:03:55.840><c> just</c><00:03:56.000><c> to</c>
+
+00:03:56.149 --> 00:03:56.159 align:start position:0%
+i'll do a run here run or two just to
+ 
+
+00:03:56.159 --> 00:03:57.030 align:start position:0%
+i'll do a run here run or two just to
+show<00:03:56.319><c> you</c>
+
+00:03:57.030 --> 00:03:57.040 align:start position:0%
+show you
+ 
+
+00:03:57.040 --> 00:04:00.949 align:start position:0%
+show you
+um<00:03:57.599><c> that</c><00:03:57.840><c> it</c><00:03:58.000><c> tracks</c><00:03:58.319><c> a</c><00:03:58.400><c> lot</c><00:03:58.840><c> better</c>
+
+00:04:00.949 --> 00:04:00.959 align:start position:0%
+um that it tracks a lot better
+ 
+
+00:04:00.959 --> 00:04:03.670 align:start position:0%
+um that it tracks a lot better
+and<00:04:01.120><c> then</c><00:04:01.920><c> probably</c><00:04:02.400><c> going</c><00:04:02.560><c> to</c><00:04:02.720><c> size</c><00:04:03.120><c> up</c><00:04:03.280><c> after</c>
+
+00:04:03.670 --> 00:04:03.680 align:start position:0%
+and then probably going to size up after
+ 
+
+00:04:03.680 --> 00:04:04.550 align:start position:0%
+and then probably going to size up after
+this
+
+00:04:04.550 --> 00:04:04.560 align:start position:0%
+this
+ 
+
+00:04:04.560 --> 00:04:06.309 align:start position:0%
+this
+not<00:04:04.720><c> a</c><00:04:04.799><c> lot</c><00:04:05.040><c> left</c><00:04:05.280><c> to</c><00:04:05.360><c> learn</c><00:04:05.680><c> on</c><00:04:05.760><c> this</c><00:04:06.000><c> guy</c><00:04:06.239><c> i</c>
+
+00:04:06.309 --> 00:04:06.319 align:start position:0%
+not a lot left to learn on this guy i
+ 
+
+00:04:06.319 --> 00:04:19.670 align:start position:0%
+not a lot left to learn on this guy i
+don't<00:04:12.840><c> think</c>
+
+00:04:19.670 --> 00:04:19.680 align:start position:0%
+ 
+ 
+
+00:04:19.680 --> 00:04:21.270 align:start position:0%
+ 
+now<00:04:19.840><c> that</c><00:04:20.000><c> the</c><00:04:20.160><c> basic</c><00:04:20.479><c> configuration</c><00:04:21.120><c> was</c>
+
+00:04:21.270 --> 00:04:21.280 align:start position:0%
+now that the basic configuration was
+ 
+
+00:04:21.280 --> 00:04:23.870 align:start position:0%
+now that the basic configuration was
+selected<00:04:22.000><c> it</c><00:04:22.160><c> was</c><00:04:22.320><c> time</c><00:04:22.560><c> to</c><00:04:22.639><c> get</c><00:04:22.880><c> specific</c><00:04:23.520><c> in</c>
+
+00:04:23.870 --> 00:04:23.880 align:start position:0%
+selected it was time to get specific in
+ 
+
+00:04:23.880 --> 00:04:25.350 align:start position:0%
+selected it was time to get specific in
+xflr5
+
+00:04:25.350 --> 00:04:25.360 align:start position:0%
+xflr5
+ 
+
+00:04:25.360 --> 00:04:27.590 align:start position:0%
+xflr5
+after<00:04:25.680><c> many</c><00:04:26.000><c> iterations</c><00:04:26.880><c> this</c><00:04:27.040><c> was</c><00:04:27.199><c> the</c><00:04:27.360><c> final</c>
+
+00:04:27.590 --> 00:04:27.600 align:start position:0%
+after many iterations this was the final
+ 
+
+00:04:27.600 --> 00:04:28.830 align:start position:0%
+after many iterations this was the final
+design
+
+00:04:28.830 --> 00:04:28.840 align:start position:0%
+design
+ 
+
+00:04:28.840 --> 00:04:31.110 align:start position:0%
+design
+xflr5<00:04:29.919><c> is</c><00:04:30.000><c> not</c><00:04:30.240><c> great</c><00:04:30.479><c> for</c><00:04:30.639><c> modeling</c>
+
+00:04:31.110 --> 00:04:31.120 align:start position:0%
+xflr5 is not great for modeling
+ 
+
+00:04:31.120 --> 00:04:32.070 align:start position:0%
+xflr5 is not great for modeling
+fuselages
+
+00:04:32.070 --> 00:04:32.080 align:start position:0%
+fuselages
+ 
+
+00:04:32.080 --> 00:04:34.230 align:start position:0%
+fuselages
+and<00:04:32.240><c> other</c><00:04:32.479><c> bodies</c><00:04:33.440><c> so</c><00:04:33.600><c> i</c><00:04:33.759><c> left</c><00:04:34.000><c> off</c><00:04:34.160><c> the</c>
+
+00:04:34.230 --> 00:04:34.240 align:start position:0%
+and other bodies so i left off the
+ 
+
+00:04:34.240 --> 00:04:36.629 align:start position:0%
+and other bodies so i left off the
+pontoons<00:04:35.040><c> and</c><00:04:35.199><c> the</c><00:04:35.360><c> fuselage</c>
+
+00:04:36.629 --> 00:04:36.639 align:start position:0%
+pontoons and the fuselage
+ 
+
+00:04:36.639 --> 00:04:38.950 align:start position:0%
+pontoons and the fuselage
+however<00:04:37.120><c> this</c><00:04:37.360><c> allows</c><00:04:37.680><c> you</c><00:04:37.840><c> to</c><00:04:37.919><c> get</c><00:04:38.160><c> really</c>
+
+00:04:38.950 --> 00:04:38.960 align:start position:0%
+however this allows you to get really
+ 
+
+00:04:38.960 --> 00:04:39.830 align:start position:0%
+however this allows you to get really
+really<00:04:39.280><c> close</c>
+
+00:04:39.830 --> 00:04:39.840 align:start position:0%
+really close
+ 
+
+00:04:39.840 --> 00:04:43.030 align:start position:0%
+really close
+without<00:04:40.240><c> all</c><00:04:40.400><c> those</c><00:04:40.639><c> features</c><00:04:41.759><c> xflr5</c><00:04:42.720><c> also</c>
+
+00:04:43.030 --> 00:04:43.040 align:start position:0%
+without all those features xflr5 also
+ 
+
+00:04:43.040 --> 00:04:44.629 align:start position:0%
+without all those features xflr5 also
+has<00:04:43.199><c> an</c><00:04:43.360><c> amazing</c><00:04:43.759><c> feature</c><00:04:44.080><c> where</c><00:04:44.240><c> it</c><00:04:44.400><c> allows</c>
+
+00:04:44.629 --> 00:04:44.639 align:start position:0%
+has an amazing feature where it allows
+ 
+
+00:04:44.639 --> 00:04:47.030 align:start position:0%
+has an amazing feature where it allows
+you<00:04:44.800><c> to</c><00:04:44.880><c> calculate</c><00:04:45.360><c> the</c><00:04:45.520><c> difference</c><00:04:45.919><c> between</c>
+
+00:04:47.030 --> 00:04:47.040 align:start position:0%
+you to calculate the difference between
+ 
+
+00:04:47.040 --> 00:04:49.189 align:start position:0%
+you to calculate the difference between
+the<00:04:47.199><c> aerodynamics</c><00:04:47.919><c> in-ground</c><00:04:48.320><c> effect</c><00:04:48.960><c> and</c>
+
+00:04:49.189 --> 00:04:49.199 align:start position:0%
+the aerodynamics in-ground effect and
+ 
+
+00:04:49.199 --> 00:04:50.310 align:start position:0%
+the aerodynamics in-ground effect and
+out-of-ground<00:04:49.759><c> effect</c>
+
+00:04:50.310 --> 00:04:50.320 align:start position:0%
+out-of-ground effect
+ 
+
+00:04:50.320 --> 00:04:51.990 align:start position:0%
+out-of-ground effect
+so<00:04:50.479><c> that</c><00:04:50.639><c> you</c><00:04:50.720><c> don't</c><00:04:50.880><c> have</c><00:04:51.120><c> any</c><00:04:51.280><c> surprises</c><00:04:51.919><c> as</c>
+
+00:04:51.990 --> 00:04:52.000 align:start position:0%
+so that you don't have any surprises as
+ 
+
+00:04:52.000 --> 00:04:53.670 align:start position:0%
+so that you don't have any surprises as
+you<00:04:52.160><c> move</c><00:04:52.320><c> between</c><00:04:52.639><c> the</c><00:04:52.720><c> two</c><00:04:52.960><c> elements</c><00:04:53.440><c> which</c>
+
+00:04:53.670 --> 00:04:53.680 align:start position:0%
+you move between the two elements which
+ 
+
+00:04:53.680 --> 00:04:55.510 align:start position:0%
+you move between the two elements which
+is<00:04:53.759><c> a</c><00:04:53.840><c> big</c><00:04:54.080><c> deal</c><00:04:54.400><c> on</c><00:04:54.560><c> winging</c><00:04:54.880><c> ground</c><00:04:55.120><c> effect</c>
+
+00:04:55.510 --> 00:04:55.520 align:start position:0%
+is a big deal on winging ground effect
+ 
+
+00:04:55.520 --> 00:04:56.390 align:start position:0%
+is a big deal on winging ground effect
+aircraft
+
+00:04:56.390 --> 00:04:56.400 align:start position:0%
+aircraft
+ 
+
+00:04:56.400 --> 00:04:58.629 align:start position:0%
+aircraft
+depending<00:04:56.880><c> on</c><00:04:57.040><c> the</c><00:04:57.120><c> design</c><00:04:58.000><c> ground</c><00:04:58.320><c> effect</c>
+
+00:04:58.629 --> 00:04:58.639 align:start position:0%
+depending on the design ground effect
+ 
+
+00:04:58.639 --> 00:05:00.469 align:start position:0%
+depending on the design ground effect
+vehicles<00:04:59.280><c> can</c><00:04:59.440><c> have</c><00:04:59.600><c> dramatic</c><00:05:00.080><c> changes</c><00:05:00.400><c> in</c>
+
+00:05:00.469 --> 00:05:00.479 align:start position:0%
+vehicles can have dramatic changes in
+ 
+
+00:05:00.479 --> 00:05:01.909 align:start position:0%
+vehicles can have dramatic changes in
+the<00:05:00.639><c> center</c><00:05:00.880><c> of</c><00:05:01.039><c> pressure</c><00:05:01.360><c> depending</c><00:05:01.759><c> on</c>
+
+00:05:01.909 --> 00:05:01.919 align:start position:0%
+the center of pressure depending on
+ 
+
+00:05:01.919 --> 00:05:03.590 align:start position:0%
+the center of pressure depending on
+height<00:05:02.160><c> above</c><00:05:02.479><c> the</c><00:05:02.560><c> surface</c><00:05:02.960><c> they</c><00:05:03.120><c> are</c><00:05:03.199><c> moving</c>
+
+00:05:03.590 --> 00:05:03.600 align:start position:0%
+height above the surface they are moving
+ 
+
+00:05:03.600 --> 00:05:04.390 align:start position:0%
+height above the surface they are moving
+over
+
+00:05:04.390 --> 00:05:04.400 align:start position:0%
+over
+ 
+
+00:05:04.400 --> 00:05:06.070 align:start position:0%
+over
+as<00:05:04.560><c> you</c><00:05:04.720><c> can</c><00:05:04.880><c> see</c><00:05:05.120><c> here</c><00:05:05.520><c> the</c><00:05:05.600><c> vehicle</c>
+
+00:05:06.070 --> 00:05:06.080 align:start position:0%
+as you can see here the vehicle
+ 
+
+00:05:06.080 --> 00:05:08.310 align:start position:0%
+as you can see here the vehicle
+essentially<00:05:06.560><c> becomes</c><00:05:07.039><c> instantaneously</c><00:05:08.000><c> tail</c>
+
+00:05:08.310 --> 00:05:08.320 align:start position:0%
+essentially becomes instantaneously tail
+ 
+
+00:05:08.320 --> 00:05:09.990 align:start position:0%
+essentially becomes instantaneously tail
+heavy<00:05:08.639><c> as</c><00:05:08.720><c> the</c><00:05:08.880><c> nose</c><00:05:09.199><c> rises</c>
+
+00:05:09.990 --> 00:05:10.000 align:start position:0%
+heavy as the nose rises
+ 
+
+00:05:10.000 --> 00:05:13.510 align:start position:0%
+heavy as the nose rises
+leading<00:05:10.240><c> to</c><00:05:10.400><c> a</c><00:05:10.560><c> spectacular</c><00:05:11.360><c> backflip</c>
+
+00:05:13.510 --> 00:05:13.520 align:start position:0%
+leading to a spectacular backflip
+ 
+
+00:05:13.520 --> 00:05:14.790 align:start position:0%
+leading to a spectacular backflip
+the<00:05:13.680><c> first</c><00:05:13.919><c> thing</c><00:05:14.160><c> i</c><00:05:14.240><c> really</c><00:05:14.479><c> needed</c><00:05:14.720><c> to</c>
+
+00:05:14.790 --> 00:05:14.800 align:start position:0%
+the first thing i really needed to
+ 
+
+00:05:14.800 --> 00:05:16.629 align:start position:0%
+the first thing i really needed to
+figure<00:05:15.120><c> out</c><00:05:15.280><c> before</c><00:05:15.600><c> diving</c><00:05:16.000><c> into</c><00:05:16.160><c> this</c><00:05:16.400><c> build</c>
+
+00:05:16.629 --> 00:05:16.639 align:start position:0%
+figure out before diving into this build
+ 
+
+00:05:16.639 --> 00:05:17.590 align:start position:0%
+figure out before diving into this build
+was<00:05:16.880><c> pontoon</c>
+
+00:05:17.590 --> 00:05:17.600 align:start position:0%
+was pontoon
+ 
+
+00:05:17.600 --> 00:05:20.070 align:start position:0%
+was pontoon
+shape<00:05:17.919><c> and</c><00:05:18.080><c> size</c><00:05:19.120><c> using</c><00:05:19.440><c> the</c><00:05:19.600><c> amazing</c>
+
+00:05:20.070 --> 00:05:20.080 align:start position:0%
+shape and size using the amazing
+ 
+
+00:05:20.080 --> 00:05:21.029 align:start position:0%
+shape and size using the amazing
+principles
+
+00:05:21.029 --> 00:05:21.039 align:start position:0%
+principles
+ 
+
+00:05:21.039 --> 00:05:23.830 align:start position:0%
+principles
+laid<00:05:21.280><c> out</c><00:05:21.520><c> in</c><00:05:21.680><c> this</c><00:05:22.000><c> book</c><00:05:22.960><c> i</c><00:05:23.120><c> was</c><00:05:23.360><c> able</c><00:05:23.520><c> to</c><00:05:23.680><c> make</c>
+
+00:05:23.830 --> 00:05:23.840 align:start position:0%
+laid out in this book i was able to make
+ 
+
+00:05:23.840 --> 00:05:26.150 align:start position:0%
+laid out in this book i was able to make
+some<00:05:24.000><c> pontoons</c><00:05:24.639><c> that</c><00:05:24.800><c> got</c><00:05:24.960><c> me</c><00:05:25.199><c> really</c><00:05:25.520><c> close</c>
+
+00:05:26.150 --> 00:05:26.160 align:start position:0%
+some pontoons that got me really close
+ 
+
+00:05:26.160 --> 00:05:29.270 align:start position:0%
+some pontoons that got me really close
+right<00:05:26.400><c> from</c><00:05:26.560><c> the</c><00:05:26.720><c> beginning</c>
+
+00:05:29.270 --> 00:05:29.280 align:start position:0%
+ 
+ 
+
+00:05:29.280 --> 00:05:31.350 align:start position:0%
+ 
+at<00:05:29.520><c> 10</c><00:05:29.759><c> pounds</c><00:05:30.080><c> simulated</c><00:05:30.720><c> weight</c><00:05:31.039><c> i</c><00:05:31.120><c> was</c>
+
+00:05:31.350 --> 00:05:31.360 align:start position:0%
+at 10 pounds simulated weight i was
+ 
+
+00:05:31.360 --> 00:05:33.029 align:start position:0%
+at 10 pounds simulated weight i was
+quite<00:05:31.600><c> pleased</c><00:05:31.919><c> with</c><00:05:32.080><c> how</c><00:05:32.240><c> the</c><00:05:32.320><c> craft</c><00:05:32.639><c> sat</c><00:05:32.960><c> in</c>
+
+00:05:33.029 --> 00:05:33.039 align:start position:0%
+quite pleased with how the craft sat in
+ 
+
+00:05:33.039 --> 00:05:33.909 align:start position:0%
+quite pleased with how the craft sat in
+the<00:05:33.199><c> water</c>
+
+00:05:33.909 --> 00:05:33.919 align:start position:0%
+the water
+ 
+
+00:05:33.919 --> 00:05:35.749 align:start position:0%
+the water
+i<00:05:34.080><c> did</c><00:05:34.400><c> end</c><00:05:34.560><c> up</c><00:05:34.720><c> carving</c><00:05:35.120><c> a</c><00:05:35.199><c> little</c><00:05:35.360><c> bit</c><00:05:35.520><c> more</c>
+
+00:05:35.749 --> 00:05:35.759 align:start position:0%
+i did end up carving a little bit more
+ 
+
+00:05:35.759 --> 00:05:37.670 align:start position:0%
+i did end up carving a little bit more
+off<00:05:35.919><c> the</c><00:05:36.080><c> back</c><00:05:36.639><c> than</c><00:05:36.800><c> the</c><00:05:36.960><c> front</c>
+
+00:05:37.670 --> 00:05:37.680 align:start position:0%
+off the back than the front
+ 
+
+00:05:37.680 --> 00:05:39.270 align:start position:0%
+off the back than the front
+to<00:05:37.919><c> get</c><00:05:38.080><c> the</c><00:05:38.240><c> tail</c><00:05:38.479><c> to</c><00:05:38.639><c> sit</c><00:05:38.800><c> a</c><00:05:38.880><c> little</c><00:05:39.120><c> bit</c>
+
+00:05:39.270 --> 00:05:39.280 align:start position:0%
+to get the tail to sit a little bit
+ 
+
+00:05:39.280 --> 00:05:40.870 align:start position:0%
+to get the tail to sit a little bit
+deeper<00:05:39.600><c> in</c><00:05:39.680><c> the</c><00:05:39.759><c> water</c><00:05:40.080><c> and</c><00:05:40.320><c> increase</c><00:05:40.639><c> the</c>
+
+00:05:40.870 --> 00:05:40.880 align:start position:0%
+deeper in the water and increase the
+ 
+
+00:05:40.880 --> 00:05:42.390 align:start position:0%
+deeper in the water and increase the
+angle<00:05:41.120><c> of</c><00:05:41.280><c> attack</c><00:05:41.600><c> on</c><00:05:41.759><c> the</c><00:05:41.840><c> wing</c>
+
+00:05:42.390 --> 00:05:42.400 align:start position:0%
+angle of attack on the wing
+ 
+
+00:05:42.400 --> 00:05:44.550 align:start position:0%
+angle of attack on the wing
+but<00:05:42.639><c> other</c><00:05:42.800><c> than</c><00:05:43.039><c> that</c><00:05:43.680><c> it</c><00:05:43.840><c> was</c><00:05:44.000><c> good</c><00:05:44.320><c> right</c>
+
+00:05:44.550 --> 00:05:44.560 align:start position:0%
+but other than that it was good right
+ 
+
+00:05:44.560 --> 00:05:47.430 align:start position:0%
+but other than that it was good right
+off<00:05:44.720><c> the</c><00:05:44.800><c> bat</c>
+
+00:05:47.430 --> 00:05:47.440 align:start position:0%
+ 
+ 
+
+00:05:47.440 --> 00:05:49.830 align:start position:0%
+ 
+so<00:05:47.600><c> i</c><00:05:47.680><c> was</c><00:05:47.919><c> on</c><00:05:48.000><c> the</c><00:05:48.160><c> interwebs</c><00:05:49.280><c> learning</c><00:05:49.600><c> how</c>
+
+00:05:49.830 --> 00:05:49.840 align:start position:0%
+so i was on the interwebs learning how
+ 
+
+00:05:49.840 --> 00:05:51.590 align:start position:0%
+so i was on the interwebs learning how
+to<00:05:50.000><c> waterproof</c><00:05:50.560><c> the</c><00:05:50.720><c> electronics</c><00:05:51.280><c> for</c><00:05:51.440><c> this</c>
+
+00:05:51.590 --> 00:05:51.600 align:start position:0%
+to waterproof the electronics for this
+ 
+
+00:05:51.600 --> 00:05:52.710 align:start position:0%
+to waterproof the electronics for this
+project
+
+00:05:52.710 --> 00:05:52.720 align:start position:0%
+project
+ 
+
+00:05:52.720 --> 00:05:55.670 align:start position:0%
+project
+and<00:05:53.120><c> we</c><00:05:53.280><c> will</c><00:05:53.440><c> be</c><00:05:53.520><c> using</c><00:05:53.759><c> corrosion</c><00:05:54.479><c> xhd</c><00:05:55.520><c> on</c>
+
+00:05:55.670 --> 00:05:55.680 align:start position:0%
+and we will be using corrosion xhd on
+ 
+
+00:05:55.680 --> 00:05:56.870 align:start position:0%
+and we will be using corrosion xhd on
+the<00:05:55.840><c> servos</c>
+
+00:05:56.870 --> 00:05:56.880 align:start position:0%
+the servos
+ 
+
+00:05:56.880 --> 00:06:00.790 align:start position:0%
+the servos
+and<00:05:57.199><c> on</c><00:05:57.280><c> the</c><00:05:57.440><c> battery</c><00:05:58.160><c> and</c><00:05:58.479><c> then</c><00:05:58.800><c> on</c><00:05:59.039><c> the</c><00:05:59.759><c> escs</c>
+
+00:06:00.790 --> 00:06:00.800 align:start position:0%
+and on the battery and then on the escs
+ 
+
+00:06:00.800 --> 00:06:03.909 align:start position:0%
+and on the battery and then on the escs
+and<00:06:01.039><c> the</c><00:06:01.199><c> autopilot</c><00:06:02.240><c> i</c><00:06:02.400><c> will</c><00:06:02.560><c> be</c><00:06:02.720><c> using</c>
+
+00:06:03.909 --> 00:06:03.919 align:start position:0%
+and the autopilot i will be using
+ 
+
+00:06:03.919 --> 00:06:06.790 align:start position:0%
+and the autopilot i will be using
+a<00:06:04.240><c> silicon</c><00:06:04.800><c> conformal</c><00:06:05.280><c> coating</c><00:06:06.160><c> and</c><00:06:06.479><c> that</c><00:06:06.720><c> is</c>
+
+00:06:06.790 --> 00:06:06.800 align:start position:0%
+a silicon conformal coating and that is
+ 
+
+00:06:06.800 --> 00:06:18.390 align:start position:0%
+a silicon conformal coating and that is
+the<00:06:06.960><c> next</c><00:06:07.199><c> step</c>
+
+00:06:18.390 --> 00:06:18.400 align:start position:0%
+ 
+ 
+
+00:06:18.400 --> 00:06:20.230 align:start position:0%
+ 
+now<00:06:18.639><c> that</c><00:06:18.800><c> i</c><00:06:18.880><c> knew</c><00:06:19.039><c> what</c><00:06:19.280><c> i</c><00:06:19.360><c> was</c><00:06:19.520><c> building</c><00:06:20.160><c> it</c>
+
+00:06:20.230 --> 00:06:20.240 align:start position:0%
+now that i knew what i was building it
+ 
+
+00:06:20.240 --> 00:06:21.909 align:start position:0%
+now that i knew what i was building it
+was<00:06:20.400><c> time</c><00:06:20.639><c> to</c><00:06:20.800><c> start</c><00:06:21.039><c> building</c>
+
+00:06:21.909 --> 00:06:21.919 align:start position:0%
+was time to start building
+ 
+
+00:06:21.919 --> 00:06:23.510 align:start position:0%
+was time to start building
+here's<00:06:22.240><c> a</c><00:06:22.319><c> little</c><00:06:22.560><c> montage</c><00:06:23.120><c> to</c><00:06:23.280><c> get</c><00:06:23.360><c> you</c>
+
+00:06:23.510 --> 00:06:23.520 align:start position:0%
+here's a little montage to get you
+ 
+
+00:06:23.520 --> 00:06:30.550 align:start position:0%
+here's a little montage to get you
+through<00:06:23.680><c> the</c><00:06:23.759><c> next</c><00:06:24.000><c> 30</c><00:06:24.240><c> seconds</c><00:06:24.639><c> of</c><00:06:24.720><c> your</c><00:06:24.880><c> life</c>
+
+00:06:30.550 --> 00:06:30.560 align:start position:0%
+ 
+ 
+
+00:06:30.560 --> 00:06:31.990 align:start position:0%
+ 
+if<00:06:30.720><c> you</c><00:06:30.880><c> are</c><00:06:31.039><c> interested</c><00:06:31.440><c> in</c><00:06:31.600><c> the</c><00:06:31.680><c> general</c>
+
+00:06:31.990 --> 00:06:32.000 align:start position:0%
+if you are interested in the general
+ 
+
+00:06:32.000 --> 00:06:34.150 align:start position:0%
+if you are interested in the general
+construction<00:06:32.560><c> techniques</c><00:06:33.039><c> of</c><00:06:33.120><c> this</c><00:06:33.360><c> airplane</c>
+
+00:06:34.150 --> 00:06:34.160 align:start position:0%
+construction techniques of this airplane
+ 
+
+00:06:34.160 --> 00:06:46.830 align:start position:0%
+construction techniques of this airplane
+check<00:06:34.400><c> out</c><00:06:34.560><c> this</c><00:06:34.800><c> video</c><00:06:35.199><c> linked</c><00:06:35.520><c> on</c><00:06:35.680><c> the</c><00:06:35.759><c> upper</c>
+
+00:06:46.830 --> 00:06:46.840 align:start position:0%
+ 
+ 
+
+00:06:46.840 --> 00:06:49.909 align:start position:0%
+ 
+right
+
+00:06:49.909 --> 00:06:49.919 align:start position:0%
+ 
+ 
+
+00:06:49.919 --> 00:06:51.670 align:start position:0%
+ 
+after<00:06:50.319><c> installing</c><00:06:50.800><c> the</c><00:06:50.880><c> electronics</c><00:06:51.520><c> and</c>
+
+00:06:51.670 --> 00:06:51.680 align:start position:0%
+after installing the electronics and
+ 
+
+00:06:51.680 --> 00:06:53.430 align:start position:0%
+after installing the electronics and
+posing<00:06:51.919><c> for</c><00:06:52.080><c> some</c><00:06:52.240><c> glamour</c><00:06:52.639><c> shots</c><00:06:53.039><c> there</c><00:06:53.280><c> was</c>
+
+00:06:53.430 --> 00:06:53.440 align:start position:0%
+posing for some glamour shots there was
+ 
+
+00:06:53.440 --> 00:06:54.629 align:start position:0%
+posing for some glamour shots there was
+really<00:06:53.680><c> nothing</c><00:06:54.000><c> left</c><00:06:54.160><c> to</c><00:06:54.319><c> do</c>
+
+00:06:54.629 --> 00:06:54.639 align:start position:0%
+really nothing left to do
+ 
+
+00:06:54.639 --> 00:07:02.540 align:start position:0%
+really nothing left to do
+but<00:06:54.800><c> fly</c><00:06:55.120><c> this</c><00:07:00.840><c> thing</c>
+
+00:07:02.540 --> 00:07:02.550 align:start position:0%
+but fly this thing
+ 
+
+00:07:02.550 --> 00:07:13.790 align:start position:0%
+but fly this thing
+[Music]
+
+00:07:13.790 --> 00:07:13.800 align:start position:0%
+ 
+ 
+
+00:07:13.800 --> 00:07:29.760 align:start position:0%
+ 
+[Music]
+
+00:07:29.760 --> 00:07:29.770 align:start position:0%
+ 
+ 
+
+00:07:29.770 --> 00:07:46.260 align:start position:0%
+ 
+[Music]
+
+00:07:46.260 --> 00:07:46.270 align:start position:0%
+ 
+ 
+
+00:07:46.270 --> 00:07:56.440 align:start position:0%
+ 
+[Music]
+
+00:07:56.440 --> 00:07:56.450 align:start position:0%
+ 
+ 
+
+00:07:56.450 --> 00:08:10.830 align:start position:0%
+ 
+[Music]
+
+00:08:10.830 --> 00:08:10.840 align:start position:0%
+ 
+ 
+
+00:08:10.840 --> 00:08:27.400 align:start position:0%
+ 
+[Music]
+
+00:08:27.400 --> 00:08:27.410 align:start position:0%
+ 
+ 
+
+00:08:27.410 --> 00:08:52.400 align:start position:0%
+ 
+[Music]
+
+00:08:52.400 --> 00:08:52.410 align:start position:0%
+ 
+ 
+
+00:08:52.410 --> 00:08:58.070 align:start position:0%
+ 
+[Music]
+
+00:08:58.070 --> 00:08:58.080 align:start position:0%
+ 
+ 
+
+00:08:58.080 --> 00:08:59.670 align:start position:0%
+ 
+you<00:08:58.240><c> may</c><00:08:58.480><c> remember</c><00:08:58.800><c> me</c><00:08:58.959><c> saying</c><00:08:59.279><c> i</c><00:08:59.360><c> would</c><00:08:59.519><c> put</c>
+
+00:08:59.670 --> 00:08:59.680 align:start position:0%
+you may remember me saying i would put
+ 
+
+00:08:59.680 --> 00:09:01.269 align:start position:0%
+you may remember me saying i would put
+the<00:08:59.760><c> motors</c><00:09:00.080><c> in</c><00:09:00.160><c> the</c><00:09:00.320><c> front</c><00:09:00.800><c> while</c><00:09:01.040><c> clearly</c>
+
+00:09:01.269 --> 00:09:01.279 align:start position:0%
+the motors in the front while clearly
+ 
+
+00:09:01.279 --> 00:09:03.509 align:start position:0%
+the motors in the front while clearly
+they<00:09:01.519><c> ended</c><00:09:01.760><c> up</c><00:09:01.920><c> in</c><00:09:02.000><c> the</c><00:09:02.080><c> back</c><00:09:02.320><c> of</c><00:09:02.399><c> the</c><00:09:02.560><c> craft</c>
+
+00:09:03.509 --> 00:09:03.519 align:start position:0%
+they ended up in the back of the craft
+ 
+
+00:09:03.519 --> 00:09:05.110 align:start position:0%
+they ended up in the back of the craft
+after<00:09:03.760><c> much</c><00:09:04.000><c> deliberation</c><00:09:04.720><c> and</c><00:09:04.800><c> taking</c><00:09:05.040><c> the</c>
+
+00:09:05.110 --> 00:09:05.120 align:start position:0%
+after much deliberation and taking the
+ 
+
+00:09:05.120 --> 00:09:06.870 align:start position:0%
+after much deliberation and taking the
+air<00:09:05.360><c> fish</c><00:09:05.600><c> eight</c><00:09:05.920><c> and</c><00:09:06.080><c> other</c><00:09:06.240><c> examples</c><00:09:06.720><c> into</c>
+
+00:09:06.870 --> 00:09:06.880 align:start position:0%
+air fish eight and other examples into
+ 
+
+00:09:06.880 --> 00:09:09.110 align:start position:0%
+air fish eight and other examples into
+consideration<00:09:07.839><c> i</c><00:09:08.000><c> decided</c><00:09:08.399><c> to</c><00:09:08.480><c> take</c><00:09:08.720><c> a</c><00:09:08.800><c> chance</c>
+
+00:09:09.110 --> 00:09:09.120 align:start position:0%
+consideration i decided to take a chance
+ 
+
+00:09:09.120 --> 00:09:11.030 align:start position:0%
+consideration i decided to take a chance
+on<00:09:09.200><c> the</c><00:09:09.279><c> rear</c><00:09:09.519><c> motors</c><00:09:09.920><c> despite</c><00:09:10.320><c> my</c><00:09:10.480><c> experience</c>
+
+00:09:11.030 --> 00:09:11.040 align:start position:0%
+on the rear motors despite my experience
+ 
+
+00:09:11.040 --> 00:09:13.030 align:start position:0%
+on the rear motors despite my experience
+with<00:09:11.200><c> the</c><00:09:11.279><c> free</c><00:09:11.519><c> flight</c><00:09:11.839><c> model</c>
+
+00:09:13.030 --> 00:09:13.040 align:start position:0%
+with the free flight model
+ 
+
+00:09:13.040 --> 00:09:14.790 align:start position:0%
+with the free flight model
+thanks<00:09:13.279><c> to</c><00:09:13.440><c> the</c><00:09:13.519><c> yaw</c><00:09:13.760><c> dampening</c><00:09:14.320><c> function</c><00:09:14.640><c> in</c>
+
+00:09:14.790 --> 00:09:14.800 align:start position:0%
+thanks to the yaw dampening function in
+ 
+
+00:09:14.800 --> 00:09:16.550 align:start position:0%
+thanks to the yaw dampening function in
+arduplane<00:09:15.519><c> takeoff</c><00:09:16.000><c> is</c><00:09:16.080><c> a</c><00:09:16.160><c> complete</c>
+
+00:09:16.550 --> 00:09:16.560 align:start position:0%
+arduplane takeoff is a complete
+ 
+
+00:09:16.560 --> 00:09:17.910 align:start position:0%
+arduplane takeoff is a complete
+non-event
+
+00:09:17.910 --> 00:09:17.920 align:start position:0%
+non-event
+ 
+
+00:09:17.920 --> 00:09:19.910 align:start position:0%
+non-event
+in<00:09:18.160><c> unstabilized</c><00:09:18.959><c> modes</c><00:09:19.279><c> the</c><00:09:19.360><c> takeoff</c><00:09:19.760><c> can</c>
+
+00:09:19.910 --> 00:09:19.920 align:start position:0%
+in unstabilized modes the takeoff can
+ 
+
+00:09:19.920 --> 00:09:23.910 align:start position:0%
+in unstabilized modes the takeoff can
+sometimes<00:09:20.399><c> go</c><00:09:20.560><c> a</c><00:09:20.640><c> little</c><00:09:20.880><c> sideways</c><00:09:21.440><c> though</c>
+
+00:09:23.910 --> 00:09:23.920 align:start position:0%
+ 
+ 
+
+00:09:23.920 --> 00:09:25.509 align:start position:0%
+ 
+what<00:09:24.160><c> followed</c><00:09:24.560><c> was</c><00:09:24.720><c> a</c><00:09:24.800><c> few</c><00:09:25.040><c> mornings</c><00:09:25.440><c> of</c>
+
+00:09:25.509 --> 00:09:25.519 align:start position:0%
+what followed was a few mornings of
+ 
+
+00:09:25.519 --> 00:09:27.910 align:start position:0%
+what followed was a few mornings of
+testing<00:09:25.920><c> before</c><00:09:26.160><c> the</c><00:09:26.320><c> wind</c><00:09:26.560><c> would</c><00:09:26.720><c> get</c><00:09:26.959><c> going</c>
+
+00:09:27.910 --> 00:09:27.920 align:start position:0%
+testing before the wind would get going
+ 
+
+00:09:27.920 --> 00:09:29.509 align:start position:0%
+testing before the wind would get going
+i<00:09:28.080><c> first</c><00:09:28.399><c> played</c><00:09:28.640><c> around</c><00:09:28.880><c> with</c><00:09:29.120><c> the</c><00:09:29.200><c> center</c><00:09:29.440><c> of</c>
+
+00:09:29.509 --> 00:09:29.519 align:start position:0%
+i first played around with the center of
+ 
+
+00:09:29.519 --> 00:09:31.509 align:start position:0%
+i first played around with the center of
+gravity<00:09:29.920><c> to</c><00:09:30.080><c> find</c><00:09:30.320><c> the</c><00:09:30.399><c> most</c><00:09:30.640><c> reared</c><00:09:31.120><c> position</c>
+
+00:09:31.509 --> 00:09:31.519 align:start position:0%
+gravity to find the most reared position
+ 
+
+00:09:31.519 --> 00:09:32.790 align:start position:0%
+gravity to find the most reared position
+i<00:09:31.600><c> could</c><00:09:31.760><c> get</c><00:09:31.920><c> away</c><00:09:32.240><c> with</c>
+
+00:09:32.790 --> 00:09:32.800 align:start position:0%
+i could get away with
+ 
+
+00:09:32.800 --> 00:09:34.470 align:start position:0%
+i could get away with
+out<00:09:32.959><c> of</c><00:09:33.120><c> ground</c><00:09:33.440><c> effect</c><00:09:33.839><c> as</c><00:09:34.000><c> this</c><00:09:34.160><c> would</c><00:09:34.320><c> help</c>
+
+00:09:34.470 --> 00:09:34.480 align:start position:0%
+out of ground effect as this would help
+ 
+
+00:09:34.480 --> 00:09:36.470 align:start position:0%
+out of ground effect as this would help
+the<00:09:34.640><c> craft</c><00:09:34.959><c> be</c><00:09:35.120><c> as</c><00:09:35.279><c> efficient</c><00:09:35.680><c> as</c><00:09:35.760><c> possible</c>
+
+00:09:36.470 --> 00:09:36.480 align:start position:0%
+the craft be as efficient as possible
+ 
+
+00:09:36.480 --> 00:09:39.269 align:start position:0%
+the craft be as efficient as possible
+while<00:09:36.720><c> in</c><00:09:36.880><c> ground</c><00:09:37.200><c> effect</c><00:09:38.399><c> i</c><00:09:38.560><c> also</c><00:09:38.880><c> needed</c><00:09:39.120><c> to</c>
+
+00:09:39.269 --> 00:09:39.279 align:start position:0%
+while in ground effect i also needed to
+ 
+
+00:09:39.279 --> 00:09:40.630 align:start position:0%
+while in ground effect i also needed to
+check<00:09:39.519><c> out</c><00:09:39.600><c> the</c><00:09:39.760><c> stability</c><00:09:40.240><c> modes</c><00:09:40.480><c> for</c>
+
+00:09:40.630 --> 00:09:40.640 align:start position:0%
+check out the stability modes for
+ 
+
+00:09:40.640 --> 00:09:42.310 align:start position:0%
+check out the stability modes for
+general<00:09:40.959><c> flight</c><00:09:41.279><c> characteristics</c>
+
+00:09:42.310 --> 00:09:42.320 align:start position:0%
+general flight characteristics
+ 
+
+00:09:42.320 --> 00:09:43.750 align:start position:0%
+general flight characteristics
+and<00:09:42.399><c> they</c><00:09:42.560><c> were</c><00:09:42.720><c> good</c><00:09:42.880><c> enough</c><00:09:43.120><c> for</c><00:09:43.279><c> me</c><00:09:43.440><c> without</c>
+
+00:09:43.750 --> 00:09:43.760 align:start position:0%
+and they were good enough for me without
+ 
+
+00:09:43.760 --> 00:09:46.230 align:start position:0%
+and they were good enough for me without
+any<00:09:44.000><c> adjustment</c><00:09:44.480><c> in</c><00:09:44.640><c> arduplane</c>
+
+00:09:46.230 --> 00:09:46.240 align:start position:0%
+any adjustment in arduplane
+ 
+
+00:09:46.240 --> 00:09:47.990 align:start position:0%
+any adjustment in arduplane
+i<00:09:46.480><c> found</c><00:09:46.720><c> that</c><00:09:46.880><c> with</c><00:09:47.040><c> careful</c><00:09:47.440><c> entry</c><00:09:47.760><c> into</c>
+
+00:09:47.990 --> 00:09:48.000 align:start position:0%
+i found that with careful entry into
+ 
+
+00:09:48.000 --> 00:09:49.670 align:start position:0%
+i found that with careful entry into
+ground<00:09:48.240><c> effect</c><00:09:48.560><c> and</c><00:09:48.720><c> with</c><00:09:48.959><c> fine</c><00:09:49.279><c> throttle</c>
+
+00:09:49.670 --> 00:09:49.680 align:start position:0%
+ground effect and with fine throttle
+ 
+
+00:09:49.680 --> 00:09:51.030 align:start position:0%
+ground effect and with fine throttle
+adjustment<00:09:50.160><c> the</c><00:09:50.240><c> akrano</c><00:09:50.640><c> plan</c><00:09:50.880><c> would</c>
+
+00:09:51.030 --> 00:09:51.040 align:start position:0%
+adjustment the akrano plan would
+ 
+
+00:09:51.040 --> 00:09:52.870 align:start position:0%
+adjustment the akrano plan would
+maintain<00:09:51.440><c> its</c><00:09:51.600><c> position</c><00:09:52.080><c> in</c><00:09:52.240><c> ground</c><00:09:52.480><c> effect</c>
+
+00:09:52.870 --> 00:09:52.880 align:start position:0%
+maintain its position in ground effect
+ 
+
+00:09:52.880 --> 00:10:07.430 align:start position:0%
+maintain its position in ground effect
+completely<00:09:53.440><c> hands</c><00:10:02.839><c> off</c>
+
+00:10:07.430 --> 00:10:07.440 align:start position:0%
+ 
+ 
+
+00:10:07.440 --> 00:10:09.110 align:start position:0%
+ 
+next<00:10:07.760><c> it</c><00:10:07.839><c> was</c><00:10:08.000><c> time</c><00:10:08.240><c> to</c><00:10:08.399><c> add</c><00:10:08.560><c> an</c><00:10:08.720><c> airspeed</c>
+
+00:10:09.110 --> 00:10:09.120 align:start position:0%
+next it was time to add an airspeed
+ 
+
+00:10:09.120 --> 00:10:10.870 align:start position:0%
+next it was time to add an airspeed
+sensor<00:10:09.440><c> for</c><00:10:09.600><c> throttle</c><00:10:09.920><c> control</c><00:10:10.399><c> in</c><00:10:10.560><c> auto</c>
+
+00:10:10.870 --> 00:10:10.880 align:start position:0%
+sensor for throttle control in auto
+ 
+
+00:10:10.880 --> 00:10:11.430 align:start position:0%
+sensor for throttle control in auto
+modes
+
+00:10:11.430 --> 00:10:11.440 align:start position:0%
+modes
+ 
+
+00:10:11.440 --> 00:10:13.269 align:start position:0%
+modes
+while<00:10:11.680><c> testing</c><00:10:12.079><c> one</c><00:10:12.240><c> day</c><00:10:12.480><c> a</c><00:10:12.560><c> kind</c><00:10:12.880><c> stranger</c>
+
+00:10:13.269 --> 00:10:13.279 align:start position:0%
+while testing one day a kind stranger
+ 
+
+00:10:13.279 --> 00:10:14.870 align:start position:0%
+while testing one day a kind stranger
+came<00:10:13.519><c> out</c><00:10:13.600><c> and</c><00:10:13.760><c> read</c><00:10:14.000><c> off</c><00:10:14.160><c> air</c><00:10:14.399><c> speeds</c><00:10:14.720><c> from</c>
+
+00:10:14.870 --> 00:10:14.880 align:start position:0%
+came out and read off air speeds from
+ 
+
+00:10:14.880 --> 00:10:16.470 align:start position:0%
+came out and read off air speeds from
+telemetry<00:10:15.440><c> and</c><00:10:15.600><c> mission</c><00:10:15.920><c> planner</c><00:10:16.240><c> as</c><00:10:16.399><c> i</c>
+
+00:10:16.470 --> 00:10:16.480 align:start position:0%
+telemetry and mission planner as i
+ 
+
+00:10:16.480 --> 00:10:18.310 align:start position:0%
+telemetry and mission planner as i
+manually<00:10:16.959><c> maintained</c><00:10:17.519><c> ground</c><00:10:17.760><c> effect</c><00:10:18.079><c> with</c>
+
+00:10:18.310 --> 00:10:18.320 align:start position:0%
+manually maintained ground effect with
+ 
+
+00:10:18.320 --> 00:10:19.590 align:start position:0%
+manually maintained ground effect with
+throttle
+
+00:10:19.590 --> 00:10:19.600 align:start position:0%
+throttle
+ 
+
+00:10:19.600 --> 00:10:21.190 align:start position:0%
+throttle
+when<00:10:19.760><c> i</c><00:10:19.839><c> went</c><00:10:20.079><c> back</c><00:10:20.399><c> and</c><00:10:20.480><c> looked</c><00:10:20.640><c> at</c><00:10:20.720><c> the</c><00:10:20.880><c> log</c>
+
+00:10:21.190 --> 00:10:21.200 align:start position:0%
+when i went back and looked at the log
+ 
+
+00:10:21.200 --> 00:10:23.990 align:start position:0%
+when i went back and looked at the log
+files<00:10:21.600><c> later</c><00:10:22.399><c> indeed</c><00:10:22.720><c> he</c><00:10:22.880><c> had</c><00:10:22.959><c> nailed</c><00:10:23.360><c> it</c>
+
+00:10:23.990 --> 00:10:24.000 align:start position:0%
+files later indeed he had nailed it
+ 
+
+00:10:24.000 --> 00:10:27.269 align:start position:0%
+files later indeed he had nailed it
+thank<00:10:24.240><c> you</c><00:10:24.399><c> kind</c><00:10:24.640><c> stranger</c><00:10:26.399><c> finally</c><00:10:26.880><c> the</c><00:10:27.040><c> last</c>
+
+00:10:27.269 --> 00:10:27.279 align:start position:0%
+thank you kind stranger finally the last
+ 
+
+00:10:27.279 --> 00:10:28.550 align:start position:0%
+thank you kind stranger finally the last
+test<00:10:27.600><c> was</c><00:10:27.760><c> here</c>
+
+00:10:28.550 --> 00:10:28.560 align:start position:0%
+test was here
+ 
+
+00:10:28.560 --> 00:10:30.470 align:start position:0%
+test was here
+after<00:10:28.880><c> securing</c><00:10:29.360><c> a</c><00:10:29.440><c> boat</c><00:10:29.680><c> and</c><00:10:29.760><c> a</c><00:10:29.920><c> location</c><00:10:30.320><c> for</c>
+
+00:10:30.470 --> 00:10:30.480 align:start position:0%
+after securing a boat and a location for
+ 
+
+00:10:30.480 --> 00:10:31.990 align:start position:0%
+after securing a boat and a location for
+the<00:10:30.640><c> test</c><00:10:31.120><c> the</c><00:10:31.279><c> mission</c><00:10:31.519><c> was</c><00:10:31.680><c> planned</c>
+
+00:10:31.990 --> 00:10:32.000 align:start position:0%
+the test the mission was planned
+ 
+
+00:10:32.000 --> 00:10:33.670 align:start position:0%
+the test the mission was planned
+on<00:10:32.079><c> the</c><00:10:32.160><c> computer</c><00:10:32.640><c> with</c><00:10:32.800><c> gentle</c><00:10:33.200><c> turns</c><00:10:33.600><c> to</c>
+
+00:10:33.670 --> 00:10:33.680 align:start position:0%
+on the computer with gentle turns to
+ 
+
+00:10:33.680 --> 00:10:35.110 align:start position:0%
+on the computer with gentle turns to
+avoid<00:10:34.000><c> a</c><00:10:34.079><c> wing</c><00:10:34.320><c> strike</c>
+
+00:10:35.110 --> 00:10:35.120 align:start position:0%
+avoid a wing strike
+ 
+
+00:10:35.120 --> 00:10:37.670 align:start position:0%
+avoid a wing strike
+which<00:10:35.360><c> turned</c><00:10:35.600><c> out</c><00:10:35.760><c> not</c><00:10:35.920><c> to</c><00:10:36.000><c> be</c><00:10:36.160><c> an</c><00:10:36.320><c> issue</c><00:10:37.440><c> i</c>
+
+00:10:37.670 --> 00:10:37.680 align:start position:0%
+which turned out not to be an issue i
+ 
+
+00:10:37.680 --> 00:10:39.509 align:start position:0%
+which turned out not to be an issue i
+found<00:10:37.920><c> after</c><00:10:38.240><c> a</c><00:10:38.320><c> few</c><00:10:38.560><c> test</c><00:10:38.880><c> passes</c><00:10:39.279><c> that</c><00:10:39.360><c> the</c>
+
+00:10:39.509 --> 00:10:39.519 align:start position:0%
+found after a few test passes that the
+ 
+
+00:10:39.519 --> 00:10:41.350 align:start position:0%
+found after a few test passes that the
+air<00:10:39.760><c> speed</c><00:10:40.079><c> needed</c><00:10:40.320><c> to</c><00:10:40.399><c> be</c><00:10:40.560><c> kept</c><00:10:40.880><c> higher</c><00:10:41.200><c> in</c>
+
+00:10:41.350 --> 00:10:41.360 align:start position:0%
+air speed needed to be kept higher in
+ 
+
+00:10:41.360 --> 00:10:43.190 align:start position:0%
+air speed needed to be kept higher in
+autonomous<00:10:41.920><c> modes</c><00:10:42.240><c> than</c><00:10:42.480><c> i</c><00:10:42.560><c> had</c><00:10:42.720><c> needed</c><00:10:43.040><c> in</c>
+
+00:10:43.190 --> 00:10:43.200 align:start position:0%
+autonomous modes than i had needed in
+ 
+
+00:10:43.200 --> 00:10:44.550 align:start position:0%
+autonomous modes than i had needed in
+stability<00:10:43.680><c> mode</c><00:10:43.920><c> to</c><00:10:44.000><c> prevent</c><00:10:44.320><c> an</c>
+
+00:10:44.550 --> 00:10:44.560 align:start position:0%
+stability mode to prevent an
+ 
+
+00:10:44.560 --> 00:10:48.949 align:start position:0%
+stability mode to prevent an
+unintended<00:10:45.120><c> landing</c><00:10:47.519><c> and</c><00:10:47.600><c> then</c><00:10:47.839><c> it</c><00:10:47.920><c> was</c><00:10:48.079><c> time</c>
+
+00:10:48.949 --> 00:10:48.959 align:start position:0%
+unintended landing and then it was time
+ 
+
+00:10:48.959 --> 00:10:50.630 align:start position:0%
+unintended landing and then it was time
+ground<00:10:49.279><c> effect</c><00:10:49.600><c> was</c><00:10:49.760><c> entered</c><00:10:50.079><c> and</c><00:10:50.240><c> i</c><00:10:50.320><c> switched</c>
+
+00:10:50.630 --> 00:10:50.640 align:start position:0%
+ground effect was entered and i switched
+ 
+
+00:10:50.640 --> 00:10:52.150 align:start position:0%
+ground effect was entered and i switched
+into<00:10:50.880><c> a</c><00:10:51.040><c> waypoint</c><00:10:51.519><c> mission</c>
+
+00:10:52.150 --> 00:10:52.160 align:start position:0%
+into a waypoint mission
+ 
+
+00:10:52.160 --> 00:11:15.000 align:start position:0%
+into a waypoint mission
+set<00:10:52.399><c> for</c><00:10:52.560><c> one</c><00:10:52.720><c> foot</c><00:10:52.959><c> off</c><00:10:53.200><c> the</c><00:10:58.839><c> water</c>
+
+00:11:15.000 --> 00:11:15.010 align:start position:0%
+ 
+ 
+
+00:11:15.010 --> 00:12:42.710 align:start position:0%
+ 
+[Music]
+
+00:12:42.710 --> 00:12:42.720 align:start position:0%
+ 
+ 
+
+00:12:42.720 --> 00:12:44.389 align:start position:0%
+ 
+in<00:12:42.880><c> my</c><00:12:43.040><c> opinion</c><00:12:43.440><c> the</c><00:12:43.519><c> mission</c><00:12:43.839><c> was</c><00:12:44.000><c> a</c><00:12:44.079><c> total</c>
+
+00:12:44.389 --> 00:12:44.399 align:start position:0%
+in my opinion the mission was a total
+ 
+
+00:12:44.399 --> 00:12:46.949 align:start position:0%
+in my opinion the mission was a total
+success<00:12:45.600><c> partially</c>
+
+00:12:46.949 --> 00:12:46.959 align:start position:0%
+success partially
+ 
+
+00:12:46.959 --> 00:12:48.790 align:start position:0%
+success partially
+the<00:12:47.120><c> acronym</c><00:12:47.600><c> plan</c><00:12:47.839><c> never</c><00:12:48.079><c> touched</c><00:12:48.320><c> the</c><00:12:48.480><c> water</c>
+
+00:12:48.790 --> 00:12:48.800 align:start position:0%
+the acronym plan never touched the water
+ 
+
+00:12:48.800 --> 00:12:50.470 align:start position:0%
+the acronym plan never touched the water
+and<00:12:48.880><c> spent</c><00:12:49.200><c> about</c><00:12:49.360><c> half</c><00:12:49.600><c> its</c><00:12:49.760><c> time</c><00:12:50.079><c> in</c><00:12:50.160><c> ground</c>
+
+00:12:50.470 --> 00:12:50.480 align:start position:0%
+and spent about half its time in ground
+ 
+
+00:12:50.480 --> 00:12:51.350 align:start position:0%
+and spent about half its time in ground
+effect
+
+00:12:51.350 --> 00:12:51.360 align:start position:0%
+effect
+ 
+
+00:12:51.360 --> 00:12:52.949 align:start position:0%
+effect
+it<00:12:51.600><c> also</c><00:12:51.839><c> never</c><00:12:52.160><c> rose</c><00:12:52.399><c> more</c><00:12:52.560><c> than</c><00:12:52.800><c> its</c>
+
+00:12:52.949 --> 00:12:52.959 align:start position:0%
+it also never rose more than its
+ 
+
+00:12:52.959 --> 00:12:55.350 align:start position:0%
+it also never rose more than its
+wingspan<00:12:53.440><c> of</c><00:12:53.600><c> six</c><00:12:53.839><c> feet</c><00:12:54.000><c> above</c><00:12:54.320><c> the</c><00:12:54.399><c> water</c>
+
+00:12:55.350 --> 00:12:55.360 align:start position:0%
+wingspan of six feet above the water
+ 
+
+00:12:55.360 --> 00:12:57.030 align:start position:0%
+wingspan of six feet above the water
+and<00:12:55.519><c> the</c><00:12:55.600><c> big</c><00:12:55.839><c> one</c><00:12:56.160><c> which</c><00:12:56.399><c> was</c><00:12:56.560><c> still</c><00:12:56.720><c> having</c>
+
+00:12:57.030 --> 00:12:57.040 align:start position:0%
+and the big one which was still having
+ 
+
+00:12:57.040 --> 00:12:59.190 align:start position:0%
+and the big one which was still having
+an<00:12:57.200><c> intact</c><00:12:57.519><c> craft</c><00:12:57.920><c> to</c><00:12:58.000><c> hand</c><00:12:58.320><c> off</c><00:12:58.399><c> to</c><00:12:58.560><c> rc</c><00:12:58.959><c> test</c>
+
+00:12:59.190 --> 00:12:59.200 align:start position:0%
+an intact craft to hand off to rc test
+ 
+
+00:12:59.200 --> 00:13:01.590 align:start position:0%
+an intact craft to hand off to rc test
+flight<00:12:59.600><c> to</c><00:12:59.760><c> continue</c><00:13:00.240><c> the</c><00:13:00.320><c> project</c>
+
+00:13:01.590 --> 00:13:01.600 align:start position:0%
+flight to continue the project
+ 
+
+00:13:01.600 --> 00:13:03.430 align:start position:0%
+flight to continue the project
+i<00:13:01.760><c> cannot</c><00:13:02.079><c> wait</c><00:13:02.320><c> to</c><00:13:02.399><c> see</c><00:13:02.639><c> a</c><00:13:02.720><c> tighter</c><00:13:03.040><c> altitude</c>
+
+00:13:03.430 --> 00:13:03.440 align:start position:0%
+i cannot wait to see a tighter altitude
+ 
+
+00:13:03.440 --> 00:13:04.710 align:start position:0%
+i cannot wait to see a tighter altitude
+control<00:13:03.920><c> implemented</c>
+
+00:13:04.710 --> 00:13:04.720 align:start position:0%
+control implemented
+ 
+
+00:13:04.720 --> 00:13:07.750 align:start position:0%
+control implemented
+among<00:13:05.120><c> other</c><00:13:05.360><c> things</c><00:13:07.040><c> to</c><00:13:07.200><c> see</c><00:13:07.360><c> where</c><00:13:07.519><c> this</c>
+
+00:13:07.750 --> 00:13:07.760 align:start position:0%
+among other things to see where this
+ 
+
+00:13:07.760 --> 00:13:08.790 align:start position:0%
+among other things to see where this
+project<00:13:08.240><c> goes</c>
+
+00:13:08.790 --> 00:13:08.800 align:start position:0%
+project goes
+ 
+
+00:13:08.800 --> 00:13:13.509 align:start position:0%
+project goes
+head<00:13:09.040><c> over</c><00:13:09.279><c> to</c><00:13:09.440><c> rc</c><00:13:09.839><c> test</c><00:13:10.079><c> flight's</c><00:13:10.480><c> channel</c>
+
+00:13:13.509 --> 00:13:13.519 align:start position:0%
+ 
+ 
+
+00:13:13.519 --> 00:13:15.269 align:start position:0%
+ 
+as<00:13:13.680><c> i</c><00:13:13.760><c> bring</c><00:13:14.000><c> the</c><00:13:14.079><c> ground</c><00:13:14.320><c> effect</c><00:13:14.560><c> vehicle</c><00:13:15.120><c> and</c>
+
+00:13:15.269 --> 00:13:15.279 align:start position:0%
+as i bring the ground effect vehicle and
+ 
+
+00:13:15.279 --> 00:13:16.870 align:start position:0%
+as i bring the ground effect vehicle and
+this<00:13:15.440><c> episode</c><00:13:15.920><c> in</c><00:13:16.000><c> for</c><00:13:16.160><c> a</c><00:13:16.320><c> landing</c><00:13:16.639><c> please</c>
+
+00:13:16.870 --> 00:13:16.880 align:start position:0%
+this episode in for a landing please
+ 
+
+00:13:16.880 --> 00:13:18.470 align:start position:0%
+this episode in for a landing please
+consider<00:13:17.279><c> subscribing</c><00:13:17.920><c> if</c><00:13:18.079><c> you</c><00:13:18.160><c> think</c><00:13:18.320><c> i</c>
+
+00:13:18.470 --> 00:13:18.480 align:start position:0%
+consider subscribing if you think i
+ 
+
+00:13:18.480 --> 00:13:19.110 align:start position:0%
+consider subscribing if you think i
+earned<00:13:18.800><c> it</c>
+
+00:13:19.110 --> 00:13:19.120 align:start position:0%
+earned it
+ 
+
+00:13:19.120 --> 00:13:22.150 align:start position:0%
+earned it
+it<00:13:19.279><c> really</c><00:13:19.519><c> helped</c><00:13:20.959><c> also</c><00:13:21.360><c> i</c><00:13:21.519><c> usually</c><00:13:21.839><c> name</c><00:13:22.079><c> all</c>
+
+00:13:22.150 --> 00:13:22.160 align:start position:0%
+it really helped also i usually name all
+ 
+
+00:13:22.160 --> 00:13:23.590 align:start position:0%
+it really helped also i usually name all
+my<00:13:22.399><c> projects</c><00:13:22.800><c> but</c><00:13:22.959><c> couldn't</c><00:13:23.120><c> come</c><00:13:23.360><c> up</c><00:13:23.440><c> with</c>
+
+00:13:23.590 --> 00:13:23.600 align:start position:0%
+my projects but couldn't come up with
+ 
+
+00:13:23.600 --> 00:13:25.190 align:start position:0%
+my projects but couldn't come up with
+anything<00:13:23.920><c> this</c><00:13:24.160><c> time</c>
+
+00:13:25.190 --> 00:13:25.200 align:start position:0%
+anything this time
+ 
+
+00:13:25.200 --> 00:13:26.790 align:start position:0%
+anything this time
+drop<00:13:25.440><c> a</c><00:13:25.519><c> suggestion</c><00:13:26.000><c> in</c><00:13:26.079><c> the</c><00:13:26.160><c> comments</c><00:13:26.560><c> below</c>
+
+00:13:26.790 --> 00:13:26.800 align:start position:0%
+drop a suggestion in the comments below
+ 
+
+00:13:26.800 --> 00:13:28.069 align:start position:0%
+drop a suggestion in the comments below
+if<00:13:26.880><c> you</c><00:13:26.959><c> think</c><00:13:27.120><c> of</c><00:13:27.279><c> anything</c><00:13:27.600><c> clever</c><00:13:28.000><c> and</c>
+
+00:13:28.069 --> 00:13:28.079 align:start position:0%
+if you think of anything clever and
+ 
+
+00:13:28.079 --> 00:13:29.829 align:start position:0%
+if you think of anything clever and
+let's<00:13:28.320><c> see</c><00:13:28.480><c> if</c><00:13:28.560><c> something</c><00:13:28.880><c> sticks</c>
+
+00:13:29.829 --> 00:13:29.839 align:start position:0%
+let's see if something sticks
+ 
+
+00:13:29.839 --> 00:13:31.670 align:start position:0%
+let's see if something sticks
+maybe<00:13:30.160><c> rc</c><00:13:30.560><c> test</c><00:13:30.800><c> flight</c><00:13:31.040><c> will</c><00:13:31.120><c> roll</c><00:13:31.360><c> with</c><00:13:31.519><c> one</c>
+
+00:13:31.670 --> 00:13:31.680 align:start position:0%
+maybe rc test flight will roll with one
+ 
+
+00:13:31.680 --> 00:13:34.959 align:start position:0%
+maybe rc test flight will roll with one
+of<00:13:31.959><c> them</c>
+
